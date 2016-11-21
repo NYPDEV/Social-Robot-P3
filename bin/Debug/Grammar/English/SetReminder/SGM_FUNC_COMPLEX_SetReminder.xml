@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-GB" root="SGM_FUNC_COMPLEX_SetReminder" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_FUNC_COMPLEX_SetReminder" scope="public">
+    <one-of>
+      <item>remind me to take medicine at 12 today</item>
+      <item>remind me to 12 at 12 tomorrow</item>
+      <item>remind me to 12 12 tomorrow</item>
+      <item>remind me to 12 12 today</item>
+      <item>remind me to 12 in 12</item>
+      <item>remind me to 12 in 12 minutes</item>
+      <item>remind me to 12 in 2 minutes</item>
+      <item>I want to 12 at 12</item>
+    </one-of>
+  </rule>
+</grammar>

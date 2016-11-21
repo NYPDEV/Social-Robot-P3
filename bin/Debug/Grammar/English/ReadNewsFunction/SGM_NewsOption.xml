@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-GB" root="SGM_NewsOption" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_NewsOption" scope="public">
+    <one-of>
+      <item>Give me some 12 news</item>
+      <item>I want 12 news</item>
+      <item>12 news please</item>
+    </one-of>
+  </rule>
+</grammar>

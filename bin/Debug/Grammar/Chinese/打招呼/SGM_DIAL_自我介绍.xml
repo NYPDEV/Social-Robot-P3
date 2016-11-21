@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><grammar xml:lang="zh-CN" root="SGM_DIAL_自我介绍" version="1.0" xmlns="http://www.w3.org/2001/06/grammar"><rule id="SGM_DIAL_自我介绍" scope="public"><one-of><item>介绍一下你自己</item><item>介绍自己</item><item>自我介绍</item><item>你是谁</item></one-of></rule></grammar>

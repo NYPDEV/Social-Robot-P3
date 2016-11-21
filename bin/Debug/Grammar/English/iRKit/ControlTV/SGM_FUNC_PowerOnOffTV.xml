@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-US" root="SGM_FUNC_PowerOnOffTV" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_FUNC_PowerOnOffTV" scope="public">
+    <one-of>
+      <item>turn on the TV</item>
+      <item>turn on TV</item>
+      <item>on the TV</item>
+      <item>turn off the TV</item>
+      <item>off the TV</item>
+      <item>power on</item>
+      <item>power off</item>
+    </one-of>
+  </rule>
+</grammar>

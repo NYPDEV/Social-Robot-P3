@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-GB" root="SGM_ContinueReadNews_YesNo" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_ContinueReadNews_YesNo" scope="public">
+    <one-of>
+      <item>yes</item>
+      <item>yes please</item>
+      <item>no</item>
+      <item>no thanks</item>
+      <item>it's ok</item>
+    </one-of>
+  </rule>
+</grammar>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-US" root="SGM_DIAL_LookAtMe" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_DIAL_LookAtMe" scope="public">
+    <one-of>
+      <item>Look at me</item>
+      <item>ruth I'm here</item>
+      <item>Open your eyes</item>
+      <item>ruth, can you smile</item>
+      <item>ruth, do you want me to take a photo</item>
+      <item>ruth, let's take a photo</item>
+      <item>ruth, let's take a photo together</item>
+      <item>ruth are you okay?</item>
+      <item>who is the CEO of Microsoft, ruth?</item>
+      <item>do you know me?</item>
+      <item>what's my name?</item>
+      <item>who am i, ruth</item>
+      <item>say, cheese</item>
+      <item>ruth, do you know how many people here</item>
+      <item>do you know how many people here</item>
+      <item>how many people here</item>
+      <item>how many people in front of you</item>
+    </one-of>
+  </rule>
+</grammar>

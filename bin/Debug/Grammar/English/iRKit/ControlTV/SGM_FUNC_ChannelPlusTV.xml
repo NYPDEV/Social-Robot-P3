@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-US" root="SGM_FUNC_ChannelPlusTV" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_FUNC_ChannelPlusTV" scope="public">
+    <one-of>
+      <item>change channel</item>
+      <item>change channel please</item>
+      <item>next channel</item>
+      <item>next channel please</item>
+    </one-of>
+  </rule>
+</grammar>

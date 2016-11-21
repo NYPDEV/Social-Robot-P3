@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-US" root="SGM_DIAL_AskIntroduction" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_DIAL_AskIntroduction" scope="public">
+    <one-of>
+      <item>introduce yourself</item>
+      <item>why not introduce your function ruth</item>
+      <item>can you introduce your function ruth</item>
+      <item>introduce your function ruth</item>
+      <item>what can you do ruth</item>
+    </one-of>
+  </rule>
+</grammar>

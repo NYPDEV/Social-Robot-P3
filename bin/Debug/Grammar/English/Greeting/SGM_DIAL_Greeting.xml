@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-US" root="SGM_DIAL_Greeting" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_DIAL_Greeting" scope="public">
+    <one-of>
+      <item>Good Morning</item>
+      <item>Good Afternoon</item>
+      <item>Good Evening</item>
+      <item>Good Night</item>
+    </one-of>
+  </rule>
+</grammar>

@@ -1,0 +1,16 @@
+C:\Users\claire\Desktop\ReadNews\ReadNews\bin\Debug\ReadNews.exe.config
+C:\Users\claire\Desktop\ReadNews\ReadNews\bin\Debug\ReadNews.exe
+C:\Users\claire\Desktop\ReadNews\ReadNews\bin\Debug\ReadNews.pdb
+C:\Users\claire\Desktop\ReadNews\ReadNews\obj\Debug\ReadNews.csprojResolveAssemblyReference.cache
+C:\Users\claire\Desktop\ReadNews\ReadNews\obj\Debug\MainWindow.baml
+C:\Users\claire\Desktop\ReadNews\ReadNews\obj\Debug\MainWindow.g.cs
+C:\Users\claire\Desktop\ReadNews\ReadNews\obj\Debug\App.g.cs
+C:\Users\claire\Desktop\ReadNews\ReadNews\obj\Debug\ReadNews_MarkupCompile.cache
+C:\Users\claire\Desktop\ReadNews\ReadNews\obj\Debug\ReadNews.g.resources
+C:\Users\claire\Desktop\ReadNews\ReadNews\obj\Debug\ReadNews.csproj.GenerateResource.Cache
+C:\Users\claire\Desktop\ReadNews\ReadNews\obj\Debug\ReadNews.exe
+C:\Users\claire\Desktop\ReadNews\ReadNews\obj\Debug\ReadNews.pdb
+C:\Users\claire\Desktop\ReadNews\ReadNews\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\claire\Desktop\ReadNews\SocialRobot\bin\Debug\ReadNews.exe.config
+C:\Users\claire\Desktop\ReadNews\SocialRobot\obj\Debug\ReadNews.exe
+C:\Users\claire\Desktop\ReadNews\SocialRobot\obj\Debug\ReadNews.pdb

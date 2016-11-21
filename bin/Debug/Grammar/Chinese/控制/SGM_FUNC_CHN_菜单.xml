@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><grammar xml:lang="zh-CN" root="SGM_FUNC_CHN_菜单" version="1.0" xmlns="http://www.w3.org/2001/06/grammar"><rule id="SGM_FUNC_CHN_菜单" scope="public"><one-of><item>菜单</item><item>进入菜单</item><item>打开菜单</item><item>关闭菜单</item><item>退出菜单</item></one-of></rule></grammar>

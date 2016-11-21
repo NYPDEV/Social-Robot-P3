@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-US" root="SGM_DIAL_SwitchLanguageToChinese" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_DIAL_SwitchLanguageToChinese" scope="public">
+    <one-of>
+      <item>I want to switch to Chinese speech recognition</item>
+      <item>i want to switch to Chinese</item>
+      <item>Switch to Chinese speech recognition</item>
+      <item>Switch to Chinese</item>
+      <item>Speak Chinese</item>
+      <item>Can you speak Chinese</item>
+    </one-of>
+  </rule>
+</grammar>

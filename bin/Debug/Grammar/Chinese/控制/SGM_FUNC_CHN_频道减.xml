@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><grammar xml:lang="zh-CN" root="SGM_FUNC_CHN_频道减" version="1.0" xmlns="http://www.w3.org/2001/06/grammar"><rule id="SGM_FUNC_CHN_频道减" scope="public"><one-of><item>上一个频道</item><item>上个频道</item><item>频道减</item><item>频道减少</item></one-of></rule></grammar>

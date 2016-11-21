@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><grammar xml:lang="zh-CN" root="SGM_FUNC_HOK_开收音机" version="1.0" xmlns="http://www.w3.org/2001/06/grammar"><rule id="SGM_FUNC_HOK_开收音机" scope="public"><one-of><item>Kui radio</item></one-of></rule></grammar>

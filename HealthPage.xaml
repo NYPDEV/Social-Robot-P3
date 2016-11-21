@@ -1,0 +1,52 @@
+﻿<Window x:Class="SocialRobot.HealthPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="HealthPage" Height="720" Width="1280"
+         WindowStyle="None" ResizeMode="NoResize"  
+    WindowStartupLocation="CenterScreen" WindowState="Maximized">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="image/Background.png"/>
+        </Grid.Background>
+        <Button Content="" HorizontalAlignment="Left" Height="60" Margin="1196,19,0,0" VerticalAlignment="Top" Width="60" Click="Go_back" RenderTransformOrigin="-0.2,0.567">
+            <Button.Background>
+                <ImageBrush ImageSource="image/Go Back.png"/>
+            </Button.Background>
+        </Button>
+        <TextBox x:Name="Diastolic" HorizontalAlignment="Left" Height="50" Margin="64,437,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" FontSize="18"/>
+        <Label Content="Diastolic pressure:" HorizontalAlignment="Left" Height="35" Margin="64,397,0,0" VerticalAlignment="Top" Width="193" FontSize="20" FontWeight="Bold"/>
+        <TextBox x:Name="Ecg" HorizontalAlignment="Left" Height="50" Margin="64,214,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" FontSize="18" UseLayoutRounding="False"/>
+        <Label Content="ECG raw data:" HorizontalAlignment="Left" Height="35" Margin="64,177,0,0" VerticalAlignment="Top" Width="152" FontSize="20" FontWeight="Bold"/>
+        <TextBox x:Name="Systolic" HorizontalAlignment="Left" Height="50" Margin="64,325,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" FontSize="18" UseLayoutRounding="False"/>
+        <Label Content="Systolic pressure:" HorizontalAlignment="Left" Height="35" Margin="64,290,0,0" VerticalAlignment="Top" Width="229" FontSize="20" FontWeight="Bold"/>
+        <TextBox x:Name="AirFlow" HorizontalAlignment="Left" Height="50" Margin="64,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" FontSize="18"/>
+        <Label Content="Airflow raw data:" HorizontalAlignment="Left" Height="35" Margin="64,71,0,0" VerticalAlignment="Top" Width="184" FontSize="20" FontWeight="Bold"/>
+        <Button Content="Download" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="985,64,0,0" Click="Button_Click_1"/>
+        <TextBox x:Name="RawData" HorizontalAlignment="Left" Height="54" Margin="882,214,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="357" FontSize="18"/>
+        <Button Content="Split" HorizontalAlignment="Left" Height="20" Margin="985,99,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2"/>
+        <TextBox x:Name="Main" HorizontalAlignment="Left" Height="50" Margin="882,325,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="357" FontSize="18"/>
+        <TextBox x:Name="Glucose" HorizontalAlignment="Left" Height="50" Margin="64,555,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" UseLayoutRounding="False" FontSize="18"/>
+        <Label Content="Glucose:" HorizontalAlignment="Left" Height="35" Margin="64,523,0,0" VerticalAlignment="Top" Width="184" FontSize="20" FontWeight="Bold"/>
+        <TextBox x:Name="Temperature" HorizontalAlignment="Left" Height="50" Margin="323,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" UseLayoutRounding="False" FontSize="18"/>
+        <Label Content="Temperature" HorizontalAlignment="Left" Height="35" Margin="323,70,0,0" VerticalAlignment="Top" Width="167" FontSize="20" FontWeight="Bold"/>
+        <TextBox x:Name="BPM" HorizontalAlignment="Left" Height="54" Margin="323,214,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" FontSize="18"/>
+        <Label Content="BPM&#xD;&#xA;BPM" HorizontalAlignment="Left" Height="39" Margin="323,183,0,0" VerticalAlignment="Top" Width="167" FontSize="20" FontWeight="Bold"/>
+        <TextBox x:Name="SPO2" HorizontalAlignment="Left" Height="50" Margin="323,325,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" FontSize="18"/>
+        <Label Content="SPO2" HorizontalAlignment="Left" Height="43" Margin="323,282,0,0" VerticalAlignment="Top" Width="157" FontSize="20" FontWeight="Bold"/>
+        <Label Content="Condutance" HorizontalAlignment="Left" Height="43" Margin="323,394,0,0" VerticalAlignment="Top" Width="157" FontSize="20" FontWeight="Bold"/>
+        <TextBox x:Name="Condutance" HorizontalAlignment="Left" Height="50" Margin="323,437,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" UseLayoutRounding="False" FontSize="18"/>
+        <TextBox x:Name="Resistance" HorizontalAlignment="Left" Height="50" Margin="323,555,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" FontSize="18"/>
+        <TextBox x:Name="Airflow2" HorizontalAlignment="Left" Height="50" Margin="585,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" UseLayoutRounding="False" FontSize="18"/>
+        <TextBox x:Name="Posititon" HorizontalAlignment="Left" Height="50" Margin="585,214,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" FontSize="18"/>
+        <TextBox x:Name="EMG" HorizontalAlignment="Left" Height="50" Margin="585,325,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" FontSize="18"/>
+        <Label Content="Resistance" HorizontalAlignment="Left" Height="43" Margin="323,507,0,0" VerticalAlignment="Top" Width="157" FontSize="20" FontWeight="Bold"/>
+        <Label Content="Airflow" HorizontalAlignment="Left" Height="43" Margin="585,71,0,0" VerticalAlignment="Top" Width="157" FontSize="20" FontWeight="Bold"/>
+        <Label Content="Position" HorizontalAlignment="Left" Height="43" Margin="585,177,0,0" VerticalAlignment="Top" Width="157" FontSize="20" FontWeight="Bold"/>
+        <Label Content="EMG" HorizontalAlignment="Left" Height="43" Margin="585,282,0,0" VerticalAlignment="Top" Width="157" FontSize="20" FontWeight="Bold"/>
+        <Label Content="Raw data" HorizontalAlignment="Left" Height="43" Margin="882,166,0,0" VerticalAlignment="Top" Width="195" FontSize="20" FontWeight="Bold"/>
+        <Label Content="Check" HorizontalAlignment="Left" Height="43" Margin="882,275,0,0" VerticalAlignment="Top" Width="195" FontSize="20" FontWeight="Bold"/>
+        <Button x:Name="Show" Content="Show" HorizontalAlignment="Left" Height="20" Margin="985,124,0,0" VerticalAlignment="Top" Width="75" Click="Show_Click"/>
+        <TextBox x:Name="Analyze" HorizontalAlignment="Left" Height="228" Margin="789,432,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="424" FontSize="22"/>
+        <Button x:Name="Analyze_button" Content="Analyze" HorizontalAlignment="Left" Margin="937,394,0,0" VerticalAlignment="Top" Width="75" Click="Analyzebutton"/>
+    </Grid>
+</Window>

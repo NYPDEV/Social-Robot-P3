@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-GB" root="SGM_FUNC_CallPerson" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_FUNC_CallPerson" scope="public">
+    <one-of>
+      <item>frencis</item>
+      <item>zhi gung</item>
+      <item>yu yi</item>
+      <item>Edwin</item>
+    </one-of>
+  </rule>
+</grammar>

@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><grammar xml:lang="zh-CN" root="SGM_FUNC_CHN_时间" version="1.0" xmlns="http://www.w3.org/2001/06/grammar"><rule id="SGM_FUNC_CHN_时间" scope="public"><one-of><item>现在几点钟</item><item>现在几点</item><item>现在几点了</item><item>现在什么时间</item><item>现在的时间是</item><item>几点了</item><item>几点钟</item></one-of></rule></grammar>

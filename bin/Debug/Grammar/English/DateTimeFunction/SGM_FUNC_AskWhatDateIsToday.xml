@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-GB" root="SGM_FUNC_AskWhatDateIsToday" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_FUNC_AskWhatDateIsToday" scope="public">
+    <one-of>
+      <item>what is the date</item>
+      <item>what's the date</item>
+      <item>what date is today</item>
+      <item>what date's today</item>
+      <item>what is today's date</item>
+      <item>what's today's date</item>
+      <item>what is the date today</item>
+      <item>what's the date today</item>
+      <item>tell me the date</item>
+      <item>tell me the date now</item>
+    </one-of>
+  </rule>
+</grammar>

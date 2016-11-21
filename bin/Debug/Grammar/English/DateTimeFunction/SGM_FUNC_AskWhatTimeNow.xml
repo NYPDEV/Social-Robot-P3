@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-GB" root="SGM_FUNC_AskWhatTimeNow" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_FUNC_AskWhatTimeNow" scope="public">
+    <one-of>
+      <item>what is the time now</item>
+      <item>what is the time</item>
+      <item>what's the time now</item>
+      <item>can you tell me what is the time now</item>
+      <item>can you tell me what is the time</item>
+      <item>please tell me the time</item>
+      <item>please tell me what is the time now</item>
+      <item>please tell me what's the time now</item>
+      <item>do you know the time</item>
+      <item>do you know what is the time now</item>
+      <item>do you know what's the time now</item>
+    </one-of>
+  </rule>
+</grammar>

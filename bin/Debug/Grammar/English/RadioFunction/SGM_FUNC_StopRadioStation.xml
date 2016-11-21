@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-GB" root="SGM_FUNC_StopRadioStation" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_FUNC_StopRadioStation" scope="public">
+    <one-of>
+      <!--<item>can you close radio</item>
+      <item>can you close radio function</item>
+      <item>can you close radio station</item>
+      <item>can you close radio station function</item>
+      <item>can you close the radio</item>
+      <item>can you close the radio function</item>
+      <item>can you close the radio station</item>
+      <item>can you close the radio station function</item>
+      <item>can you stop radio</item>
+      <item>can you stop radio function</item>
+      <item>can you stop radio station</item>
+      <item>can you stop radio station function</item>
+      <item>can you stop the radio</item>
+      <item>can you stop the radio function</item>
+      <item>can you stop the radio station</item>
+      <item>can you stop the radio station function</item>
+      <item>i want to stop radio</item>
+      <item>i want to stop radio function</item>
+      <item>i want to stop radio station</item>
+      <item>i want to stop radio station function</item>
+      <item>i want to close radio</item>
+      <item>i want to close radio function</item>
+      <item>i want to close radio station</item>
+      <item>i want to close radio station function</item>
+      <item>i want to stop the radio</item>
+      <item>i want to stop the radio function</item>
+      <item>i want to stop the radio station</item>
+      <item>i want to stop the radio station function</item>
+      <item>i want to close the radio</item>
+      <item>i want to close the radio function</item>
+      <item>i want to close the radio station</item>
+      <item>i want to close the radio station function</item>-->
+      <item>stop radio</item>
+      <!--<item>stop radio function</item>
+      <item>stop radio station</item>
+      <item>stop radio station function</item>
+      <item>stop the radio</item>
+      <item>stop the radio function</item>
+      <item>stop the radio station</item>
+      <item>stop the radio station function</item>
+      <item>stop playing radio</item>
+      <item>stop playing radio function</item>
+      <item>stop playing radio station</item>
+      <item>stop playing radio station function</item>
+      <item>close radio</item>
+      <item>close radio function</item>
+      <item>close radio station</item>
+      <item>close radio station function</item>
+      <item>close the radio</item>
+      <item>close the radio function</item>
+      <item>close the radio station</item>
+      <item>close the radio station function</item>
+      <item>can you close radio please</item>
+      <item>can you close radio function please</item>
+      <item>can you close radio station please</item>
+      <item>can you close radio station function please</item>
+      <item>can you close the radio please</item>
+      <item>can you close the radio function please</item>
+      <item>can you close the radio station please</item>
+      <item>can you close the radio station function please</item>
+      <item>can you stop radio please</item>
+      <item>can you stop radio function please</item>
+      <item>can you stop radio station please</item>
+      <item>can you stop radio station function please</item>
+      <item>can you stop the radio please</item>
+      <item>can you stop the radio function please</item>
+      <item>can you stop the radio station please</item>
+      <item>can you stop the radio station function please</item>
+      <item>i want to stop radio please</item>
+      <item>i want to stop radio function please</item>
+      <item>i want to stop radio station please</item>
+      <item>i want to stop radio station function please</item>
+      <item>i want to close radio please</item>
+      <item>i want to close radio function please</item>
+      <item>i want to close radio station please</item>
+      <item>i want to close radio station function please</item>
+      <item>i want to stop the radio please</item>
+      <item>i want to stop the radio function please</item>
+      <item>i want to stop the radio station please</item>
+      <item>i want to stop the radio station function please</item>
+      <item>i want to close the radio please</item>
+      <item>i want to close the radio function please</item>
+      <item>i want to close the radio station please</item>
+      <item>i want to close the radio station function please</item>
+      <item>stop radio please</item>
+      <item>stop radio function please</item>
+      <item>stop radio station please</item>
+      <item>stop radio station function please</item>
+      <item>stop the radio please</item>
+      <item>stop the radio function please</item>
+      <item>stop the radio station please</item>
+      <item>stop the radio station function please</item>
+      <item>stop playing radio please</item>
+      <item>stop playing radio function please</item>
+      <item>stop playing radio station please</item>
+      <item>stop playing radio station function please</item>
+      <item>close radio please</item>
+      <item>close radio function please</item>
+      <item>close radio station please</item>
+      <item>close radio station function please</item>
+      <item>close the radio please</item>
+      <item>close the radio function please</item>
+      <item>close the radio station please</item>
+      <item>close the radio station function please</item>-->
+    </one-of>
+  </rule>
+</grammar>

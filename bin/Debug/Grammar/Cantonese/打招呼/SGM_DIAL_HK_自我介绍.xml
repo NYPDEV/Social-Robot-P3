@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><grammar xml:lang="zh-HK" root="SGM_DIAL_HK_自我介绍" version="1.0" xmlns="http://www.w3.org/2001/06/grammar"><rule id="SGM_DIAL_HK_自我介绍" scope="public"><one-of><item>ji ngo gaai siu</item><item>ni hai bin go</item></one-of></rule></grammar>

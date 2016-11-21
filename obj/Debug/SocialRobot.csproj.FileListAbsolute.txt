@@ -1,0 +1,1538 @@
+C:\Users\claire\Desktop\ReadNews\SocialRobot\bin\Debug\ReadNews.exe.config
+C:\Users\claire\Desktop\ReadNews\SocialRobot\bin\Debug\ReadNews.exe
+C:\Users\claire\Desktop\ReadNews\SocialRobot\bin\Debug\ReadNews.pdb
+C:\Users\claire\Desktop\ReadNews\SocialRobot\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\claire\Desktop\ReadNews\SocialRobot\obj\Debug\MainWindow.baml
+C:\Users\claire\Desktop\ReadNews\SocialRobot\obj\Debug\MainWindow.g.cs
+C:\Users\claire\Desktop\ReadNews\SocialRobot\obj\Debug\App.g.cs
+C:\Users\claire\Desktop\ReadNews\SocialRobot\obj\Debug\ReadNews_MarkupCompile.cache
+C:\Users\claire\Desktop\ReadNews\SocialRobot\obj\Debug\ReadNews.g.resources
+C:\Users\claire\Desktop\ReadNews\SocialRobot\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\claire\Desktop\ReadNews\SocialRobot\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\claire\Desktop\ReadNews\SocialRobot\obj\Debug\ReadNews.exe
+C:\Users\claire\Desktop\ReadNews\SocialRobot\obj\Debug\ReadNews.pdb
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\ReadNews.exe.config
+C:\Users\claire\Desktop\SocialRobot May31\obj\Debug\ReadNews.exe
+C:\Users\claire\Desktop\SocialRobot May31\obj\Debug\ReadNews.pdb
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\ReadNews.exe
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\ReadNews.pdb
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Newtonsoft.Json.dll
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Newtonsoft.Json.xml
+C:\Users\claire\Desktop\SocialRobot May31\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\claire\Desktop\SocialRobot May31\obj\Debug\MainWindow.baml
+C:\Users\claire\Desktop\SocialRobot May31\obj\Debug\MainWindow.g.cs
+C:\Users\claire\Desktop\SocialRobot May31\obj\Debug\App.g.cs
+C:\Users\claire\Desktop\SocialRobot May31\obj\Debug\ReadNews_MarkupCompile.cache
+C:\Users\claire\Desktop\SocialRobot May31\obj\Debug\ReadNews.g.resources
+C:\Users\claire\Desktop\SocialRobot May31\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\claire\Desktop\SocialRobot May31\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Google.Apis.Auth.dll
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Google.Apis.Core.dll
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Google.Apis.dll
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\log4net.dll
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Zlib.Portable.dll
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Google.Apis.pdb
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Google.Apis.xml
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Google.Apis.Auth.xml
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Google.Apis.Core.pdb
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Google.Apis.Core.xml
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\log4net.xml
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\claire\Desktop\SocialRobot May31\bin\Debug\Zlib.Portable.xml
+C:\Users\claire\Desktop\SocialRobot May31\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\SocialRobot.exe.config
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\SocialRobot.exe
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\SocialRobot.pdb
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Google.Apis.Auth.dll
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Google.Apis.Core.dll
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Google.Apis.dll
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\InputSimulator.dll
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\log4net.dll
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Zlib.Portable.dll
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Google.Apis.pdb
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Google.Apis.xml
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Google.Apis.Auth.xml
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Google.Apis.Core.pdb
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Google.Apis.Core.xml
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\log4net.xml
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\claire\Desktop\SocialRobot\bin\Debug\Zlib.Portable.xml
+C:\Users\claire\Desktop\SocialRobot\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\claire\Desktop\SocialRobot\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\claire\Desktop\SocialRobot\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\claire\Desktop\SocialRobot\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\claire\Desktop\SocialRobot\obj\Debug\Application\SkypeApp\Skype_Interface.baml
+C:\Users\claire\Desktop\SocialRobot\obj\Debug\MainWindow.baml
+C:\Users\claire\Desktop\SocialRobot\obj\Debug\Application\SkypeApp\Skype_Interface.g.cs
+C:\Users\claire\Desktop\SocialRobot\obj\Debug\MainWindow.g.cs
+C:\Users\claire\Desktop\SocialRobot\obj\Debug\App.g.cs
+C:\Users\claire\Desktop\SocialRobot\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\claire\Desktop\SocialRobot\obj\Debug\SocialRobot.g.resources
+C:\Users\claire\Desktop\SocialRobot\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\claire\Desktop\SocialRobot\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\claire\Desktop\SocialRobot\obj\Debug\SocialRobot.exe
+C:\Users\claire\Desktop\SocialRobot\obj\Debug\SocialRobot.pdb
+C:\Users\claire\Desktop\SocialRobot\obj\Debug\Application\iRKit\iRKit_TV_interface.baml
+C:\Users\claire\Desktop\SocialRobot\obj\Debug\Application\iRKit\iRKit_TV_interface.g.cs
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\SocialRobot.exe.config
+C:\Users\claire\Desktop\SocialRobot June 22\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\claire\Desktop\SocialRobot June 22\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\claire\Desktop\SocialRobot June 22\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\claire\Desktop\SocialRobot June 22\obj\Debug\SocialRobot.exe
+C:\Users\claire\Desktop\SocialRobot June 22\obj\Debug\SocialRobot.pdb
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\SocialRobot.exe
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\SocialRobot.pdb
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Google.Apis.Auth.dll
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Google.Apis.Core.dll
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Google.Apis.dll
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\InputSimulator.dll
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\log4net.dll
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Newtonsoft.Json.dll
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Zlib.Portable.dll
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Google.Apis.pdb
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Google.Apis.xml
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Google.Apis.Auth.xml
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Google.Apis.Core.pdb
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Google.Apis.Core.xml
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\log4net.xml
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Newtonsoft.Json.xml
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\claire\Desktop\SocialRobot June 22\bin\Debug\Zlib.Portable.xml
+C:\Users\claire\Desktop\SocialRobot June 22\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\claire\Desktop\SocialRobot June 22\obj\Debug\Application\iRKit\iRKit_TV_interface.baml
+C:\Users\claire\Desktop\SocialRobot June 22\obj\Debug\Application\SkypeApp\Skype_Interface.baml
+C:\Users\claire\Desktop\SocialRobot June 22\obj\Debug\MainWindow.baml
+C:\Users\claire\Desktop\SocialRobot June 22\obj\Debug\Application\iRKit\iRKit_TV_interface.g.cs
+C:\Users\claire\Desktop\SocialRobot June 22\obj\Debug\Application\SkypeApp\Skype_Interface.g.cs
+C:\Users\claire\Desktop\SocialRobot June 22\obj\Debug\MainWindow.g.cs
+C:\Users\claire\Desktop\SocialRobot June 22\obj\Debug\App.g.cs
+C:\Users\claire\Desktop\SocialRobot June 22\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\claire\Desktop\SocialRobot June 22\obj\Debug\SocialRobot.g.resources
+C:\Users\claire\Desktop\SocialRobot June 22\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\claire\Desktop\SocialRobot June 22\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\SocialRobot.exe.config
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\SocialRobot.exe
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\SocialRobot.pdb
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Auth.dll
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Core.dll
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.dll
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\InputSimulator.dll
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\log4net.dll
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Newtonsoft.Json.dll
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Zlib.Portable.dll
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.pdb
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.xml
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Auth.xml
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Core.pdb
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Core.xml
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\log4net.xml
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Newtonsoft.Json.xml
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\claire\Desktop\SocialRobot June 23\bin\Debug\Zlib.Portable.xml
+C:\Users\claire\Desktop\SocialRobot June 23\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\claire\Desktop\SocialRobot June 23\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\claire\Desktop\SocialRobot June 23\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\claire\Desktop\SocialRobot June 23\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\claire\Desktop\SocialRobot June 23\obj\Debug\Application\iRKit\iRKit_TV_interface.baml
+C:\Users\claire\Desktop\SocialRobot June 23\obj\Debug\Application\SkypeApp\Skype_Interface.baml
+C:\Users\claire\Desktop\SocialRobot June 23\obj\Debug\MainWindow.baml
+C:\Users\claire\Desktop\SocialRobot June 23\obj\Debug\Application\iRKit\iRKit_TV_interface.g.cs
+C:\Users\claire\Desktop\SocialRobot June 23\obj\Debug\Application\SkypeApp\Skype_Interface.g.cs
+C:\Users\claire\Desktop\SocialRobot June 23\obj\Debug\MainWindow.g.cs
+C:\Users\claire\Desktop\SocialRobot June 23\obj\Debug\App.g.cs
+C:\Users\claire\Desktop\SocialRobot June 23\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\claire\Desktop\SocialRobot June 23\obj\Debug\SocialRobot.g.resources
+C:\Users\claire\Desktop\SocialRobot June 23\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\claire\Desktop\SocialRobot June 23\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\claire\Desktop\SocialRobot June 23\obj\Debug\SocialRobot.exe
+C:\Users\claire\Desktop\SocialRobot June 23\obj\Debug\SocialRobot.pdb
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\SocialRobot.exe.config
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\obj\Debug\SocialRobot.exe
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\obj\Debug\SocialRobot.pdb
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\SocialRobot.exe
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\SocialRobot.pdb
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Auth.dll
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Core.dll
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.dll
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\log4net.dll
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Zlib.Portable.dll
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.pdb
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.xml
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Auth.xml
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Core.pdb
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.Core.xml
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\log4net.xml
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\bin\Debug\Zlib.Portable.xml
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\obj\Debug\Application\iRKit\iRKit_TV_interface.baml
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\obj\Debug\Application\SkypeApp\Skype_Interface.baml
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\obj\Debug\MainWindow.baml
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\obj\Debug\Application\iRKit\iRKit_TV_interface.g.cs
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\obj\Debug\Application\SkypeApp\Skype_Interface.g.cs
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\obj\Debug\MainWindow.g.cs
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\obj\Debug\App.g.cs
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\obj\Debug\SocialRobot.g.resources
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\EdwinYu\Desktop\SocialRobot June 23\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\SocialRobot.exe.config
+C:\Users\claire\Desktop\SocialRobot June 24\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\claire\Desktop\SocialRobot June 24\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\claire\Desktop\SocialRobot June 24\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\claire\Desktop\SocialRobot June 24\obj\Debug\SocialRobot.exe
+C:\Users\claire\Desktop\SocialRobot June 24\obj\Debug\SocialRobot.pdb
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\SocialRobot.exe
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\SocialRobot.pdb
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Auth.dll
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Core.dll
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.dll
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\log4net.dll
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Newtonsoft.Json.dll
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Zlib.Portable.dll
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.pdb
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.xml
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Auth.xml
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Core.pdb
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Core.xml
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\log4net.xml
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Newtonsoft.Json.xml
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\claire\Desktop\SocialRobot June 24\bin\Debug\Zlib.Portable.xml
+C:\Users\claire\Desktop\SocialRobot June 24\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\claire\Desktop\SocialRobot June 24\obj\Debug\Application\iRKit\iRKit_TV_interface.baml
+C:\Users\claire\Desktop\SocialRobot June 24\obj\Debug\Application\SkypeApp\Skype_Interface.baml
+C:\Users\claire\Desktop\SocialRobot June 24\obj\Debug\MainWindow.baml
+C:\Users\claire\Desktop\SocialRobot June 24\obj\Debug\Application\iRKit\iRKit_TV_interface.g.cs
+C:\Users\claire\Desktop\SocialRobot June 24\obj\Debug\Application\SkypeApp\Skype_Interface.g.cs
+C:\Users\claire\Desktop\SocialRobot June 24\obj\Debug\MainWindow.g.cs
+C:\Users\claire\Desktop\SocialRobot June 24\obj\Debug\App.g.cs
+C:\Users\claire\Desktop\SocialRobot June 24\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\claire\Desktop\SocialRobot June 24\obj\Debug\SocialRobot.g.resources
+C:\Users\claire\Desktop\SocialRobot June 24\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\claire\Desktop\SocialRobot June 24\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\SocialRobot.exe.config
+C:\Users\claire\Desktop\SocialRobot June 24 Face\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\claire\Desktop\SocialRobot June 24 Face\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\claire\Desktop\SocialRobot June 24 Face\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\claire\Desktop\SocialRobot June 24 Face\obj\Debug\SocialRobot.exe
+C:\Users\claire\Desktop\SocialRobot June 24 Face\obj\Debug\SocialRobot.pdb
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\SocialRobot.exe
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\SocialRobot.pdb
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Google.Apis.Auth.dll
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Google.Apis.Core.dll
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Google.Apis.dll
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\log4net.dll
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Newtonsoft.Json.dll
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Zlib.Portable.dll
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Google.Apis.pdb
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Google.Apis.xml
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Google.Apis.Auth.xml
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Google.Apis.Core.pdb
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Google.Apis.Core.xml
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\log4net.xml
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Newtonsoft.Json.xml
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\claire\Desktop\SocialRobot June 24 Face\bin\Debug\Zlib.Portable.xml
+C:\Users\claire\Desktop\SocialRobot June 24 Face\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\claire\Desktop\SocialRobot June 24 Face\obj\Debug\Application\iRKit\iRKit_TV_interface.baml
+C:\Users\claire\Desktop\SocialRobot June 24 Face\obj\Debug\Application\SkypeApp\Skype_Interface.baml
+C:\Users\claire\Desktop\SocialRobot June 24 Face\obj\Debug\MainWindow.baml
+C:\Users\claire\Desktop\SocialRobot June 24 Face\obj\Debug\Application\iRKit\iRKit_TV_interface.g.cs
+C:\Users\claire\Desktop\SocialRobot June 24 Face\obj\Debug\Application\SkypeApp\Skype_Interface.g.cs
+C:\Users\claire\Desktop\SocialRobot June 24 Face\obj\Debug\MainWindow.g.cs
+C:\Users\claire\Desktop\SocialRobot June 24 Face\obj\Debug\App.g.cs
+C:\Users\claire\Desktop\SocialRobot June 24 Face\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\claire\Desktop\SocialRobot June 24 Face\obj\Debug\SocialRobot.g.resources
+C:\Users\claire\Desktop\SocialRobot June 24 Face\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\claire\Desktop\SocialRobot June 24 Face\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\SocialRobot.exe.config
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\obj\Debug\SocialRobot.exe
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\obj\Debug\SocialRobot.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\obj\Debug\Application\iRKit\iRKit_TV_interface.baml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\obj\Debug\Application\SkypeApp\Skype_Interface.baml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\obj\Debug\MainWindow.baml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\obj\Debug\Application\iRKit\iRKit_TV_interface.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\obj\Debug\Application\SkypeApp\Skype_Interface.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\obj\Debug\MainWindow.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\obj\Debug\App.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\obj\Debug\SocialRobot.g.resources
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\SocialRobot.exe
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\SocialRobot.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Core.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\log4net.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Zlib.Portable.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.Core.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\log4net.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot June 24\bin\Debug\Zlib.Portable.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\SocialRobot.exe.config
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\obj\Debug\SocialRobot.exe
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\obj\Debug\SocialRobot.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\SocialRobot.exe
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\SocialRobot.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Google.Apis.Core.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Google.Apis.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\log4net.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Zlib.Portable.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Google.Apis.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Google.Apis.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Google.Apis.Core.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\log4net.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\bin\Debug\Zlib.Portable.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\obj\Debug\Application\iRKit\iRKit_TV_interface.baml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\obj\Debug\Application\SkypeApp\Skype_Interface.baml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\obj\Debug\MainWindow.baml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\obj\Debug\Application\iRKit\iRKit_TV_interface.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\obj\Debug\Application\SkypeApp\Skype_Interface.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\obj\Debug\MainWindow.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\obj\Debug\App.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\obj\Debug\SocialRobot.g.resources
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 20\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\SocialRobot.exe.config
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\obj\Debug\SocialRobot.exe
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\obj\Debug\SocialRobot.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\SocialRobot.exe
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\SocialRobot.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Google.Apis.Core.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Google.Apis.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\log4net.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Zlib.Portable.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Google.Apis.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Google.Apis.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Google.Apis.Core.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\log4net.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\bin\Debug\Zlib.Portable.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\obj\Debug\Application\iRKit\iRKit_TV_interface.baml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\obj\Debug\Application\SkypeApp\Skype_Interface.baml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\obj\Debug\MainWindow.baml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\obj\Debug\Application\iRKit\iRKit_TV_interface.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\obj\Debug\Application\SkypeApp\Skype_Interface.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\obj\Debug\MainWindow.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\obj\Debug\App.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\obj\Debug\SocialRobot.g.resources
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July 27\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\SocialRobot.exe.config
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\obj\Debug\SocialRobot.exe
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\obj\Debug\SocialRobot.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\SocialRobot.exe
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\SocialRobot.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Google.Apis.Core.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Google.Apis.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\log4net.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Zlib.Portable.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Google.Apis.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Google.Apis.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Google.Apis.Core.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\log4net.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\Zlib.Portable.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\obj\Debug\Application\iRKit\iRKit_TV_interface.baml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\obj\Debug\Application\SkypeApp\Skype_Interface.baml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\obj\Debug\MainWindow.baml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\obj\Debug\Application\iRKit\iRKit_TV_interface.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\obj\Debug\Application\SkypeApp\Skype_Interface.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\obj\Debug\MainWindow.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\obj\Debug\App.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\obj\Debug\SocialRobot.g.resources
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\iFlyASR.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\WaveLib.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\WaveLib.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\obj\Debug\SocialRobot_Content.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\msc.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\bin\Debug\speex.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  28\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\SocialRobot.exe.config
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\Debug\SocialRobot.exe
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\Debug\SocialRobot.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\iFlyASR.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\msc.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\speex.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\SocialRobot.exe
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\SocialRobot.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Google.Apis.Core.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Google.Apis.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\log4net.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\WaveLib.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Zlib.Portable.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\WaveLib.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Google.Apis.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Google.Apis.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Google.Apis.Core.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\log4net.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\Debug\Zlib.Portable.xml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\Debug\Application\iRKit\iRKit_TV_interface.baml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\Debug\Application\SkypeApp\Skype_Interface.baml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\Debug\MainWindow.baml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\Debug\Application\iRKit\iRKit_TV_interface.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\Debug\Application\SkypeApp\Skype_Interface.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\Debug\MainWindow.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\Debug\App.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\Debug\SocialRobot_Content.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\Debug\SocialRobot.g.resources
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+D:\SocialRobot July  31\bin\Debug\SocialRobot.exe.config
+D:\SocialRobot July  31\obj\Debug\SocialRobot.csproj.App.config
+D:\SocialRobot July  31\obj\Debug\Interop.SKYPE4COMLib.dll
+D:\SocialRobot July  31\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+D:\SocialRobot July  31\obj\Debug\SocialRobot.exe
+D:\SocialRobot July  31\obj\Debug\SocialRobot.pdb
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\iFlyASR.dll
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\msc.dll
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\speex.dll
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\SocialRobot.exe.config
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\SocialRobot.exe
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\SocialRobot.pdb
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Google.Apis.Core.dll
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Google.Apis.dll
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\log4net.dll
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\WaveLib.dll
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Zlib.Portable.dll
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\WaveLib.pdb
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Google.Apis.pdb
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Google.Apis.xml
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Google.Apis.Core.xml
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\log4net.xml
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Shive\Desktop\SocialRobot July  31\bin\Debug\Zlib.Portable.xml
+C:\Users\Shive\Desktop\SocialRobot July  31\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\Shive\Desktop\SocialRobot July  31\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\Shive\Desktop\SocialRobot July  31\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Shive\Desktop\SocialRobot July  31\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\Shive\Desktop\SocialRobot July  31\obj\Debug\Application\iRKit\iRKit_TV_interface.baml
+C:\Users\Shive\Desktop\SocialRobot July  31\obj\Debug\Application\SkypeApp\Skype_Interface.baml
+C:\Users\Shive\Desktop\SocialRobot July  31\obj\Debug\MainWindow.baml
+C:\Users\Shive\Desktop\SocialRobot July  31\obj\Debug\Application\iRKit\iRKit_TV_interface.g.cs
+C:\Users\Shive\Desktop\SocialRobot July  31\obj\Debug\Application\SkypeApp\Skype_Interface.g.cs
+C:\Users\Shive\Desktop\SocialRobot July  31\obj\Debug\MainWindow.g.cs
+C:\Users\Shive\Desktop\SocialRobot July  31\obj\Debug\App.g.cs
+C:\Users\Shive\Desktop\SocialRobot July  31\obj\Debug\SocialRobot_Content.g.cs
+C:\Users\Shive\Desktop\SocialRobot July  31\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\Shive\Desktop\SocialRobot July  31\obj\Debug\SocialRobot.g.resources
+C:\Users\Shive\Desktop\SocialRobot July  31\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\Shive\Desktop\SocialRobot July  31\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\Shive\Desktop\SocialRobot July  31\obj\Debug\SocialRobot.exe
+C:\Users\Shive\Desktop\SocialRobot July  31\obj\Debug\SocialRobot.pdb
+C:\Users\Social_Robot_GB\Desktop\SocialRobot Final\bin\Debug\SocialRobot.exe.config
+C:\Users\Social_Robot_GB\Desktop\SocialRobot Final\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\Social_Robot_GB\Desktop\SocialRobot Final\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot Final\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot Final\obj\Debug\SocialRobot.exe
+C:\Users\Social_Robot_GB\Desktop\SocialRobot Final\obj\Debug\SocialRobot.pdb
+D:\SocialRobot Final\bin\Debug\SocialRobot.exe.config
+D:\SocialRobot Final\obj\Debug\SocialRobot.csproj.App.config
+D:\SocialRobot Final\obj\Debug\Interop.SKYPE4COMLib.dll
+D:\SocialRobot Final\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+D:\SocialRobot Final\obj\Debug\SocialRobot.exe
+D:\SocialRobot Final\obj\Debug\SocialRobot.pdb
+D:\SocialRobot Final\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+D:\SocialRobot Final\obj\Debug\MainWindow.baml
+D:\SocialRobot Final\obj\Debug\Setting.baml
+D:\SocialRobot Final\obj\Debug\MainWindow.g.cs
+D:\SocialRobot Final\obj\Debug\Setting.g.cs
+D:\SocialRobot Final\obj\Debug\App.g.cs
+D:\SocialRobot Final\obj\Debug\SocialRobot_Content.g.cs
+D:\SocialRobot Final\obj\Debug\SocialRobot_MarkupCompile.cache
+D:\SocialRobot Final\obj\Debug\SocialRobot.g.resources
+D:\SocialRobot Final\obj\Debug\SocialRobot.Properties.Resources.resources
+D:\SocialRobot Final\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+D:\SocialRobot Final\bin\Debug\iFlyASR.dll
+D:\SocialRobot Final\bin\Debug\msc.dll
+D:\SocialRobot Final\bin\Debug\speex.dll
+D:\SocialRobot Final\bin\Debug\SocialRobot.exe
+D:\SocialRobot Final\bin\Debug\SocialRobot.pdb
+D:\SocialRobot Final\bin\Debug\Google.Apis.Auth.dll
+D:\SocialRobot Final\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\SocialRobot Final\bin\Debug\Google.Apis.Calendar.v3.dll
+D:\SocialRobot Final\bin\Debug\Google.Apis.Core.dll
+D:\SocialRobot Final\bin\Debug\Google.Apis.dll
+D:\SocialRobot Final\bin\Debug\Google.Apis.PlatformServices.dll
+D:\SocialRobot Final\bin\Debug\log4net.dll
+D:\SocialRobot Final\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\SocialRobot Final\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\SocialRobot Final\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\SocialRobot Final\bin\Debug\Newtonsoft.Json.dll
+D:\SocialRobot Final\bin\Debug\System.Net.Http.Extensions.dll
+D:\SocialRobot Final\bin\Debug\System.Net.Http.Primitives.dll
+D:\SocialRobot Final\bin\Debug\WaveLib.dll
+D:\SocialRobot Final\bin\Debug\Zlib.Portable.dll
+D:\SocialRobot Final\bin\Debug\WaveLib.pdb
+D:\SocialRobot Final\bin\Debug\Google.Apis.pdb
+D:\SocialRobot Final\bin\Debug\Google.Apis.xml
+D:\SocialRobot Final\bin\Debug\Google.Apis.Auth.pdb
+D:\SocialRobot Final\bin\Debug\Google.Apis.Auth.xml
+D:\SocialRobot Final\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+D:\SocialRobot Final\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+D:\SocialRobot Final\bin\Debug\Google.Apis.Calendar.v3.pdb
+D:\SocialRobot Final\bin\Debug\Google.Apis.Calendar.v3.xml
+D:\SocialRobot Final\bin\Debug\Google.Apis.Core.pdb
+D:\SocialRobot Final\bin\Debug\Google.Apis.Core.xml
+D:\SocialRobot Final\bin\Debug\Google.Apis.PlatformServices.pdb
+D:\SocialRobot Final\bin\Debug\Google.Apis.PlatformServices.xml
+D:\SocialRobot Final\bin\Debug\log4net.xml
+D:\SocialRobot Final\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\SocialRobot Final\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\SocialRobot Final\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\SocialRobot Final\bin\Debug\Newtonsoft.Json.xml
+D:\SocialRobot Final\bin\Debug\System.Net.Http.Extensions.xml
+D:\SocialRobot Final\bin\Debug\System.Net.Http.Primitives.xml
+D:\SocialRobot Final\bin\Debug\Zlib.Portable.xml
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\SocialRobot.exe
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Google.Apis.Core.dll
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Google.Apis.dll
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\WaveLib.dll
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\iFlyASR.dll
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\log4net.dll
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Zlib.Portable.dll
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\WaveLib.pdb
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Google.Apis.pdb
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Google.Apis.xml
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Google.Apis.Core.xml
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\log4net.xml
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\Zlib.Portable.xml
+C:\Users\Shive\Desktop\SocialRobot Final\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\Shive\Desktop\SocialRobot Final\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\Shive\Desktop\SocialRobot Final\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Shive\Desktop\SocialRobot Final\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\Shive\Desktop\SocialRobot Final\obj\Debug\MainWindow.baml
+C:\Users\Shive\Desktop\SocialRobot Final\obj\Debug\Setting.baml
+C:\Users\Shive\Desktop\SocialRobot Final\obj\Debug\MainWindow.g.cs
+C:\Users\Shive\Desktop\SocialRobot Final\obj\Debug\Setting.g.cs
+C:\Users\Shive\Desktop\SocialRobot Final\obj\Debug\App.g.cs
+C:\Users\Shive\Desktop\SocialRobot Final\obj\Debug\SocialRobot_Content.g.cs
+C:\Users\Shive\Desktop\SocialRobot Final\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\Shive\Desktop\SocialRobot Final\obj\Debug\SocialRobot.g.resources
+C:\Users\Shive\Desktop\SocialRobot Final\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\Shive\Desktop\SocialRobot Final\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\Shive\Desktop\SocialRobot Final\obj\Debug\SocialRobot.exe
+C:\Users\Shive\Desktop\SocialRobot Final\obj\Debug\SocialRobot.pdb
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\SocialRobot.exe.config
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\msc.dll
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\speex.dll
+C:\Users\Shive\Desktop\SocialRobot Final\bin\Debug\SocialRobot.pdb
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\iFlyASR.dll
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\msc.dll
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\speex.dll
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\SocialRobot.exe.config
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\SocialRobot.exe
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\SocialRobot.pdb
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Google.Apis.Core.dll
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Google.Apis.dll
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\log4net.dll
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\WaveLib.dll
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Zlib.Portable.dll
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\WaveLib.pdb
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Google.Apis.pdb
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Google.Apis.xml
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Google.Apis.Core.xml
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\log4net.xml
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\bin\Debug\Zlib.Portable.xml
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\Interop.WMPLib.dll
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\MainWindow.baml
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\Setting.baml
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\MainWindow.g.cs
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\Setting.g.cs
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\App.g.cs
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\SocialRobot_Content.g.cs
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\SocialRobot.g.resources
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\SocialRobot.exe
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\SocialRobot.pdb
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\HealthPage.baml
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\HealthPage.g.cs
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\keypad.baml
+C:\Users\Shive\Desktop\SocialRobot Final - Copy\obj\Debug\keypad.g.cs
+C:\Users\Shive\Desktop\imagine\bin\Debug\SocialRobot.exe.config
+C:\Users\Shive\Desktop\imagine\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\Shive\Desktop\imagine\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Shive\Desktop\imagine\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Shive\Desktop\imagine\obj\Debug\Interop.WMPLib.dll
+C:\Users\Shive\Desktop\imagine\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\Shive\Desktop\imagine\obj\Debug\SocialRobot.exe
+C:\Users\Shive\Desktop\imagine\obj\Debug\SocialRobot.pdb
+C:\Users\Shive\Desktop\imagine\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\Shive\Desktop\imagine\obj\Debug\HealthPage.baml
+C:\Users\Shive\Desktop\imagine\obj\Debug\keypad.baml
+C:\Users\Shive\Desktop\imagine\obj\Debug\MainWindow.baml
+C:\Users\Shive\Desktop\imagine\obj\Debug\Setting.baml
+C:\Users\Shive\Desktop\imagine\obj\Debug\HealthPage.g.cs
+C:\Users\Shive\Desktop\imagine\obj\Debug\keypad.g.cs
+C:\Users\Shive\Desktop\imagine\obj\Debug\MainWindow.g.cs
+C:\Users\Shive\Desktop\imagine\obj\Debug\Setting.g.cs
+C:\Users\Shive\Desktop\imagine\obj\Debug\App.g.cs
+C:\Users\Shive\Desktop\imagine\obj\Debug\SocialRobot_Content.g.cs
+C:\Users\Shive\Desktop\imagine\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\Shive\Desktop\imagine\obj\Debug\SocialRobot.g.resources
+C:\Users\Shive\Desktop\imagine\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\Shive\Desktop\imagine\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\Shive\Desktop\imagine\bin\Debug\iFlyASR.dll
+C:\Users\Shive\Desktop\imagine\bin\Debug\msc.dll
+C:\Users\Shive\Desktop\imagine\bin\Debug\speex.dll
+C:\Users\Shive\Desktop\imagine\bin\Debug\SocialRobot.exe
+C:\Users\Shive\Desktop\imagine\bin\Debug\SocialRobot.pdb
+C:\Users\Shive\Desktop\imagine\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Shive\Desktop\imagine\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Shive\Desktop\imagine\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Shive\Desktop\imagine\bin\Debug\Google.Apis.Core.dll
+C:\Users\Shive\Desktop\imagine\bin\Debug\Google.Apis.dll
+C:\Users\Shive\Desktop\imagine\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Shive\Desktop\imagine\bin\Debug\log4net.dll
+C:\Users\Shive\Desktop\imagine\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Shive\Desktop\imagine\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Shive\Desktop\imagine\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Shive\Desktop\imagine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shive\Desktop\imagine\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Shive\Desktop\imagine\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Shive\Desktop\imagine\bin\Debug\WaveLib.dll
+C:\Users\Shive\Desktop\imagine\bin\Debug\Zlib.Portable.dll
+C:\Users\Shive\Desktop\imagine\bin\Debug\WaveLib.pdb
+C:\Users\Shive\Desktop\imagine\bin\Debug\Google.Apis.pdb
+C:\Users\Shive\Desktop\imagine\bin\Debug\Google.Apis.xml
+C:\Users\Shive\Desktop\imagine\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Shive\Desktop\imagine\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Shive\Desktop\imagine\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Shive\Desktop\imagine\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Shive\Desktop\imagine\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Shive\Desktop\imagine\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Shive\Desktop\imagine\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Shive\Desktop\imagine\bin\Debug\Google.Apis.Core.xml
+C:\Users\Shive\Desktop\imagine\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Shive\Desktop\imagine\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Shive\Desktop\imagine\bin\Debug\log4net.xml
+C:\Users\Shive\Desktop\imagine\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Shive\Desktop\imagine\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Shive\Desktop\imagine\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Shive\Desktop\imagine\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shive\Desktop\imagine\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Shive\Desktop\imagine\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Shive\Desktop\imagine\bin\Debug\Zlib.Portable.xml
+C:\Users\Ruth\Desktop\imagine\bin\Debug\iFlyASR.dll
+C:\Users\Ruth\Desktop\imagine\bin\Debug\msc.dll
+C:\Users\Ruth\Desktop\imagine\bin\Debug\speex.dll
+C:\Users\Ruth\Desktop\imagine\bin\Debug\SocialRobot.exe.config
+C:\Users\Ruth\Desktop\imagine\bin\Debug\SocialRobot.exe
+C:\Users\Ruth\Desktop\imagine\bin\Debug\SocialRobot.pdb
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Google.Apis.Core.dll
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Google.Apis.dll
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Ruth\Desktop\imagine\bin\Debug\log4net.dll
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ruth\Desktop\imagine\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ruth\Desktop\imagine\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ruth\Desktop\imagine\bin\Debug\WaveLib.dll
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Zlib.Portable.dll
+C:\Users\Ruth\Desktop\imagine\bin\Debug\WaveLib.pdb
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Google.Apis.pdb
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Google.Apis.xml
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Google.Apis.Core.xml
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Ruth\Desktop\imagine\bin\Debug\log4net.xml
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ruth\Desktop\imagine\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ruth\Desktop\imagine\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ruth\Desktop\imagine\bin\Debug\Zlib.Portable.xml
+C:\Users\Ruth\Desktop\imagine\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\Ruth\Desktop\imagine\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\Ruth\Desktop\imagine\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Ruth\Desktop\imagine\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Ruth\Desktop\imagine\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ruth\Desktop\imagine\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\Ruth\Desktop\imagine\obj\Debug\HealthPage.baml
+C:\Users\Ruth\Desktop\imagine\obj\Debug\keypad.baml
+C:\Users\Ruth\Desktop\imagine\obj\Debug\MainWindow.baml
+C:\Users\Ruth\Desktop\imagine\obj\Debug\Setting.baml
+C:\Users\Ruth\Desktop\imagine\obj\Debug\HealthPage.g.cs
+C:\Users\Ruth\Desktop\imagine\obj\Debug\keypad.g.cs
+C:\Users\Ruth\Desktop\imagine\obj\Debug\MainWindow.g.cs
+C:\Users\Ruth\Desktop\imagine\obj\Debug\Setting.g.cs
+C:\Users\Ruth\Desktop\imagine\obj\Debug\App.g.cs
+C:\Users\Ruth\Desktop\imagine\obj\Debug\SocialRobot_Content.g.cs
+C:\Users\Ruth\Desktop\imagine\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\Ruth\Desktop\imagine\obj\Debug\SocialRobot.g.resources
+C:\Users\Ruth\Desktop\imagine\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\Ruth\Desktop\imagine\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\Ruth\Desktop\imagine\obj\Debug\SocialRobot.exe
+C:\Users\Ruth\Desktop\imagine\obj\Debug\SocialRobot.pdb
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\SocialRobot.exe.config
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\SocialRobot.exe
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\SocialRobot.pdb
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\iFlyASR.dll
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\msc.dll
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\speex.dll
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\SocialRobot.exe
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\SocialRobot.pdb
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Google.Apis.Core.dll
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Google.Apis.dll
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\log4net.dll
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\WaveLib.dll
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Zlib.Portable.dll
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\WaveLib.pdb
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Google.Apis.pdb
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Google.Apis.xml
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Google.Apis.Core.xml
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\log4net.xml
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Shive\Desktop\imagine 1\bin\Debug\Zlib.Portable.xml
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\HealthPage.baml
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\keypad.baml
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\MainWindow.baml
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\Setting.baml
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\HealthPage.g.cs
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\keypad.g.cs
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\MainWindow.g.cs
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\Setting.g.cs
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\App.g.cs
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\SocialRobot_Content.g.cs
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\SocialRobot.g.resources
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\Shive\Desktop\imagine 1\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\SocialRobot.exe.config
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\SocialRobot.exe
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\SocialRobot.pdb
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\iFlyASR.dll
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\msc.dll
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\speex.dll
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\SocialRobot.exe
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\SocialRobot.pdb
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Google.Apis.Core.dll
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Google.Apis.dll
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\log4net.dll
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\WaveLib.dll
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Zlib.Portable.dll
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\WaveLib.pdb
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Google.Apis.pdb
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Google.Apis.xml
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Google.Apis.Core.xml
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\log4net.xml
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Zlib.Portable.xml
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\HealthPage.baml
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\keypad.baml
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\MainWindow.baml
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\Setting.baml
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\HealthPage.g.cs
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\keypad.g.cs
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\MainWindow.g.cs
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\Setting.g.cs
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\App.g.cs
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\SocialRobot_Content.g.cs
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\SocialRobot.g.resources
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\Ruth\Desktop\imagine 1\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\Ruth\Desktop\imagine 1\bin\Debug\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\iFlyASR.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\msc.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\speex.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\SocialRobot.exe.config
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\SocialRobot.exe
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\SocialRobot.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Google.Apis.Core.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Google.Apis.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\log4net.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\WaveLib.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Zlib.Portable.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\WaveLib.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Google.Apis.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Google.Apis.xml
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Google.Apis.Core.xml
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\log4net.xml
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ruth\Desktop\imagine 1 - Copy\bin\Debug\Zlib.Portable.xml
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\HealthPage.baml
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\keypad.baml
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\MainWindow.baml
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\Setting.baml
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\HealthPage.g.cs
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\keypad.g.cs
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\MainWindow.g.cs
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\Setting.g.cs
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\App.g.cs
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\SocialRobot_Content.g.cs
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\SocialRobot.g.resources
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\SocialRobot.exe
+C:\Users\Ruth\Desktop\imagine 1 - Copy\obj\Debug\SocialRobot.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\iFlyASR.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\msc.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\speex.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\SocialRobot.exe.config
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\SocialRobot.exe
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\SocialRobot.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Google.Apis.Core.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Google.Apis.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\log4net.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\WaveLib.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Zlib.Portable.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\WaveLib.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Google.Apis.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Google.Apis.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Google.Apis.Core.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\log4net.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo\bin\Debug\Zlib.Portable.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\HealthPage.baml
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\keypad.baml
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\MainWindow.baml
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\Setting.baml
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\HealthPage.g.cs
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\keypad.g.cs
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\MainWindow.g.cs
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\Setting.g.cs
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\App.g.cs
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\SocialRobot_Content.g.cs
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\SocialRobot.g.resources
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\SocialRobot.exe
+C:\Users\Ruth\Desktop\imagine 1 - Demo\obj\Debug\SocialRobot.pdb
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\bin\Debug\SocialRobot.exe.config
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\obj\Debug\Interop.WMPLib.dll
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\obj\Debug\SocialRobot.exe
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\obj\Debug\SocialRobot.pdb
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\obj\Debug\HealthPage.baml
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\obj\Debug\keypad.baml
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\obj\Debug\MainWindow.baml
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\obj\Debug\Setting.baml
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\obj\Debug\HealthPage.g.cs
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\obj\Debug\keypad.g.cs
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\obj\Debug\MainWindow.g.cs
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\obj\Debug\Setting.g.cs
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\obj\Debug\App.g.cs
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\obj\Debug\SocialRobot_Content.g.cs
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\obj\Debug\SocialRobot.g.resources
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\YU ZHIGANG\Desktop\imagine 1 - Demo - BU\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\iFlyASR.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\msc.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\speex.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\SocialRobot.exe.config
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\SocialRobot.exe
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\SocialRobot.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Google.Apis.Core.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Google.Apis.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\log4net.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Zlib.Portable.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Google.Apis.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Google.Apis.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Google.Apis.Core.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\log4net.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\bin\Debug\Zlib.Portable.xml
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\HealthPage.baml
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\keypad.baml
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\MainWindow.baml
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\Setting.baml
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\HealthPage.g.cs
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\keypad.g.cs
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\MainWindow.g.cs
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\Setting.g.cs
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\App.g.cs
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\SocialRobot_Content.g.cs
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\SocialRobot.g.resources
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\SocialRobot.exe
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\SocialRobot.pdb
+C:\Users\Ruth\Desktop\imagine 1 - Demo - BU\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\SocialRobot.exe.config
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\SocialRobot.exe
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\SocialRobot.pdb
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\SocialRobot.exe.config
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\SocialRobot.csproj.App.config
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\SocialRobot.exe
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\SocialRobot.pdb
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\iFlyASR.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\msc.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\speex.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\SocialRobot.exe
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\SocialRobot.pdb
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Google.Apis.Core.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Google.Apis.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\log4net.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Zlib.Portable.dll
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Google.Apis.pdb
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Google.Apis.xml
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Google.Apis.Core.xml
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\log4net.xml
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ruth\Desktop\Social Robot - Copy\bin\Debug\Zlib.Portable.xml
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\HealthPage.baml
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\keypad.baml
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\MainWindow.baml
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\Setting.baml
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\HealthPage.g.cs
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\keypad.g.cs
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\MainWindow.g.cs
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\Setting.g.cs
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\App.g.cs
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\SocialRobot_Content.g.cs
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\SocialRobot.g.resources
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\Ruth\Desktop\Social Robot - Copy\obj\Debug\SocialRobot.csproj.GenerateResource.Cache
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\iFlyASR.dll
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\msc.dll
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\speex.dll
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\SocialRobot.exe
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\SocialRobot.pdb
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Google.Apis.Core.dll
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Google.Apis.dll
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\log4net.dll
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Zlib.Portable.dll
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Google.Apis.pdb
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Google.Apis.xml
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Google.Apis.Core.xml
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\log4net.xml
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ruth\Desktop\Social Robot\bin\Debug\Zlib.Portable.xml
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\HealthPage.baml
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\keypad.baml
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\MainWindow.baml
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\Setting.baml
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\HealthPage.g.cs
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\keypad.g.cs
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\MainWindow.g.cs
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\Setting.g.cs
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\App.g.cs
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\SocialRobot_Content.g.cs
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\SocialRobot.g.resources
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\Ruth\Desktop\Social Robot\obj\Debug\SocialRobot.csproj.GenerateResource.Cache

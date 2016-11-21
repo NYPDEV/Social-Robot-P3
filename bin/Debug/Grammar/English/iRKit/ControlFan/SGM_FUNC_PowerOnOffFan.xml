@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-US" root="SGM_FUNC_PowerOnOffFan" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_FUNC_PowerOnOffFan" scope="public">
+    <one-of>
+      <item>turn on the fan</item>
+      <item>turn on fan</item>
+      <item>on the fan</item>
+      <item>turn off the fan</item>
+      <item>off the fan</item>
+      <item>fan power on</item>
+      <item>fan power off</item>
+      <item>power off</item>
+      <item>power on</item>
+    </one-of>
+  </rule>
+</grammar>

@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?><grammar xml:lang="ja-JP" root="SGM_FUNC_日" version="1.0" xmlns="http://www.w3.org/2001/06/grammar"><rule id="SGM_FUNC_日" scope="public"><one-of><item>今日は何日ですか</item><item>今日は何日</item>
+  <item>今日は何月何日ですか</item>
+</one-of></rule></grammar>

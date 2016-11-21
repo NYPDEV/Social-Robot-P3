@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-US" root="SGM_DIAL_SwitchLanguageToJapanese" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_DIAL_SwitchLanguageToJapanese" scope="public">
+    <one-of>
+      <item>I want to switch to Japanese speech recognition</item>
+      <item>i want to switch to Japanese</item>
+      <item>Switch to Japanese speech recognition</item>
+      <item>Switch to Japanese</item>
+      <item>speak Japanese</item>
+      <item>Can you speak Japanese</item>
+    </one-of>
+  </rule>
+</grammar>

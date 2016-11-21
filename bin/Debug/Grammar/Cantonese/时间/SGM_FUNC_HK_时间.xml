@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><grammar xml:lang="zh-HK" root="SGM_FUNC_HK_时间" version="1.0" xmlns="http://www.w3.org/2001/06/grammar"><rule id="SGM_FUNC_HK_时间" scope="public"><one-of><item>yi ga gei dian</item><item>qin man yi ga gei dian</item><item>yi ga gei diam</item><item>现在几点</item></one-of></rule></grammar>

@@ -1,0 +1,75 @@
+﻿<Window x:Class="SocialRobot.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Social Robot" Height="720" Width="1280" Closed="Window_Closed"    WindowStyle="None" ResizeMode="NoResize"  
+    WindowStartupLocation="CenterScreen" WindowState="Maximized">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="image/Background.png"/>
+        </Grid.Background>
+        <TextBlock x:Name="Language_text" HorizontalAlignment="Left" Margin="31,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="241" Height="65" FontSize="40" FontFamily="SketchFlow Print"/>
+        <TextBlock HorizontalAlignment="Left" Margin="31,167,0,0" TextWrapping="Wrap" Text="Switch Language" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe Print"/>
+        <Button x:Name="SwitchLanguage" Content="" HorizontalAlignment="Left" Margin="71,207,0,0" VerticalAlignment="Top" Width="70" Click="SwitchLanguage_Click" Height="70" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="image/Switch Language.png"/>
+            </Button.Background>
+        </Button>
+        <TextBlock x:Name="tb_result_text" HorizontalAlignment="Left" Margin="31,478,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="337" Height="167" FontSize="35" FontFamily="Kristen ITC" TextAlignment="Center"/>
+        <ProgressBar x:Name="Volume" HorizontalAlignment="Left" Height="77" Margin="597,158,0,0" VerticalAlignment="Top" Width="89" RenderTransformOrigin="0.5,0.5" Orientation="Vertical">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-0.006"/>
+                    <RotateTransform Angle="0.079"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+        <Image Margin="507,115,503,338" Source="image/Microphone.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <TextBlock x:Name="UI" HorizontalAlignment="Left" Margin="416,421,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="224" Width="457" FontSize="50" FontFamily="Segoe Print" TextAlignment="Center"/>
+        <Button x:Name="Esc" Content="" HorizontalAlignment="Left" Margin="1189,30,0,0" VerticalAlignment="Top" Width="60" Height="60" FontSize="20" Click="Esc_click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="image/Power off.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Setting" Content="&#xA;" HorizontalAlignment="Left" Margin="1110,25,0,0" VerticalAlignment="Top" Width="65" Height="65" BorderBrush="{x:Null}" Click="Setting_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="image/Setting.png"/>
+            </Button.Background>
+        </Button>
+        <Image x:Name="WeatherIcon"
+        	HorizontalAlignment="Left"
+        	Height="246"
+        	Margin="966,342,0,0"
+        	VerticalAlignment="Top"
+        	Width="270"
+	 />
+        <Calendar HorizontalAlignment="Left" Margin="1063,146,0,0" VerticalAlignment="Top" Height="176" Width="186"/>
+        <TextBlock x:Name="WeatherText" HorizontalAlignment="Left" Margin="966,593,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="68" Width="270" FontSize="32" FontFamily="Segoe Print" TextAlignment="Center"/>
+        <Button Content="" HorizontalAlignment="Left" Height="60" Margin="1189,90,0,0" VerticalAlignment="Top" Width="60" Click="Button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="image/Health.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="" HorizontalAlignment="Left" Height="60" Margin="1032,30,0,0" VerticalAlignment="Top" Width="60" Click="Button_Click_1" FontSize="22">
+            <Button.Background>
+                <ImageBrush ImageSource="image/call.jpg"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Register" Content="R" HorizontalAlignment="Left" Margin="1032,90,0,0" VerticalAlignment="Top" Width="60" Height="60" FontSize="36" Click="Register_Click"/>
+        <Button x:Name="Free" Content="F" HorizontalAlignment="Left" Margin="953,90,0,0" VerticalAlignment="Top" Width="62" Height="60" FontSize="41" Click="Free_Click"/>
+        <TextBlock x:Name="UserData" HorizontalAlignment="Left" Height="303" Margin="1021,342,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="228" FontSize="24"/>
+        <Button x:Name="WakeUp" Content="Wake Up" HorizontalAlignment="Left" Height="60" Margin="869,90,0,0" VerticalAlignment="Top" Width="62" Click="WakeUp_Click"/>
+        <Button x:Name="E" Content="E" HorizontalAlignment="Left" Height="58" Margin="1110,92,0,0" VerticalAlignment="Top" Width="62" FontSize="36"/>
+
+    </Grid>
+</Window>

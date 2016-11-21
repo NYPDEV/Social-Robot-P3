@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><grammar xml:lang="zh-CN" root="SGM_FUNC_问问题" version="1.0" xmlns="http://www.w3.org/2001/06/grammar"><rule id="SGM_FUNC_问问题" scope="public"><one-of><item>我想问你一个问题</item><item>可以问你一个问题吗</item><item>问你一个问题</item><item>问问题</item></one-of></rule></grammar>

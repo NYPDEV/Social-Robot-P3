@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-US" root="SGM_FUNC_onUpDown" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_FUNC_onUpDown" scope="public">
+    <one-of>
+      <item>on up down</item>
+      <item>off up down</item>
+      <item>go up down</item>
+      <item>stop up down</item>
+    </one-of>
+  </rule>
+</grammar>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-GB" root="SGM_FUNC_AskWhatDayIsToday" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_FUNC_AskWhatDayIsToday" scope="public">
+    <one-of>
+      <item>what is the day of today</item>
+      <item>what is the day now</item>
+      <item>what is the day today</item>
+      <item>what's the day today</item>
+    </one-of>
+  </rule>
+</grammar>

@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><grammar xml:lang="ja-JP" root="SGM_FUNC_英語に切り替え" version="1.0" xmlns="http://www.w3.org/2001/06/grammar"><rule id="SGM_FUNC_英語に切り替え" scope="public"><one-of><item>英語に切り替え</item><item>英語に切り替えて下さい</item><item>切り替えて下さい 英語に</item><item>英語で言って下さい</item><item>英語で言って</item><item>英語で</item></one-of></rule></grammar>

@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><grammar xml:lang="ja-JP" root="SGM_FUNC_中国語に切り替え_確認" version="1.0" xmlns="http://www.w3.org/2001/06/grammar"><rule id="SGM_FUNC_中国語に切り替え_確認" scope="public"><one-of><item>はい</item><item>そうです</item><item>いいえ</item></one-of></rule></grammar>

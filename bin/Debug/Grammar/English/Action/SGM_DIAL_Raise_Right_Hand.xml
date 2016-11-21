@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-US" root="SGM_DIAL_Raise_Right_Hand" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_DIAL_Raise_Right_Hand" scope="public">
+    <one-of>
+      <item>Shake Right Hand</item>
+      <item>Raise your right hand</item>
+      <item>Right hand please</item>
+    </one-of>
+  </rule>
+</grammar>

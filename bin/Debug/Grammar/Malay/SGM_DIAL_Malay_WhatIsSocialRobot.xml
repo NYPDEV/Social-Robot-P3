@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="ms" root="SGM_DIAL_Malay_WhatIsSocialRobot" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+<rule id="SGM_DIAL_Malay_WhatIsSocialRobot" scope="public">
+<one-of>
+<item>Apakah Robot Sosial?</item>
+</one-of>
+</rule>
+</grammar>

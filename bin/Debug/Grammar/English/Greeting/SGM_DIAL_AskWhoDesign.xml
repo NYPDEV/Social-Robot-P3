@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-US" root="SGM_DIAL_AskWhoDesign" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_DIAL_AskWhoDesign" scope="public">
+    <one-of>
+      <item>who designed you</item>
+      <item>how old are you</item>
+    </one-of>
+  </rule>
+</grammar>

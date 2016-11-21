@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-US" root="SGM_DIAL_GoodBye" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_DIAL_GoodBye" scope="public">
+    <item repeat="0-1">
+	<one-of>
+      <item>goodbye</item>
+    </one-of>
+	<one-of>
+		<item>Ruth</item>
+	</one-of>
+	
+	</item>
+	<item repeat="0-1">
+      <one-of>
+         <item>Ruth</item>
+      </one-of>
+	  <one-of>
+      <item>goodbye</item>
+    </one-of>
+   </item>
+  </rule>
+</grammar>

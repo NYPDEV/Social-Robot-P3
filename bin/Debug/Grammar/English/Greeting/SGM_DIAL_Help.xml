@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-US" root="SGM_DIAL_Help" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_DIAL_Help" scope="public">
+    <one-of>
+      <item>ruth help me</item>
+    </one-of>
+  </rule>
+</grammar>

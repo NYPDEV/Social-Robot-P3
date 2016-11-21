@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><grammar xml:lang="zh-CN" root="SGM_FUNC_CHN_声音减" version="1.0" xmlns="http://www.w3.org/2001/06/grammar"><rule id="SGM_FUNC_CHN_声音减" scope="public"><one-of><item>声音减小</item><item>声音降低</item><item>减小声音</item><item>降低声音</item></one-of></rule></grammar>

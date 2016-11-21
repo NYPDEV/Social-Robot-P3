@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-US" root="SGM_DIAL_ThankYou" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_DIAL_ThankYou" scope="public">
+    <one-of>
+      <item>thank you</item>
+      <item>thank you very much</item>
+      <item>thanks for the help</item>
+      <item>thanks for helping</item>
+    </one-of>
+  </rule>
+</grammar>

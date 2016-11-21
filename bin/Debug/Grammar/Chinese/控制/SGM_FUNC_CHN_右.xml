@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><grammar xml:lang="zh-CN" root="SGM_FUNC_CHN_右" version="1.0" xmlns="http://www.w3.org/2001/06/grammar"><rule id="SGM_FUNC_CHN_右" scope="public"><one-of><item>右</item><item>向右</item><item>往右</item><item>去右边</item></one-of></rule></grammar>

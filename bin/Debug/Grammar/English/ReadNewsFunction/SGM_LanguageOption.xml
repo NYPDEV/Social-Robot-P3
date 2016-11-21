@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-GB" root="SGM_FUNC_LanguageOption" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_FUNC_LanguageOption" scope="public">
+    <one-of>
+      <item>English</item>
+      <item>English news</item>
+      <item>English news please</item>
+      <item>Chinese</item>
+      <item>Chinese news</item>
+      <item>Chinese news please</item>
+    </one-of>
+  </rule>
+</grammar>

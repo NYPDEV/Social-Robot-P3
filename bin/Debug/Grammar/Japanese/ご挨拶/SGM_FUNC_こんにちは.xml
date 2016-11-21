@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><grammar xml:lang="ja-JP" root="SGM_FUNC_こんにちは" version="1.0" xmlns="http://www.w3.org/2001/06/grammar"><rule id="SGM_FUNC_こんにちは" scope="public"><one-of><item>こんにちは</item><item>おはようございます</item><item>おはよう</item><item>こんばんは</item><item>初めまして</item><item>いい天気ですね</item></one-of></rule></grammar>

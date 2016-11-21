@@ -1,0 +1,34 @@
+﻿<Window x:Class="SocialRobot.Setting"
+          xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window1" Height="720" Width="1280"    WindowStyle="None" ResizeMode="NoResize"  
+    WindowStartupLocation="CenterScreen" WindowState="Maximized">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="image/Background.png"/>
+        </Grid.Background>
+        <TextBox x:Name="tb_confidence" HorizontalAlignment="Left" Height="23" Margin="50,84,0,0" TextWrapping="Wrap" Text="&#xD;&#xA;" VerticalAlignment="Top" Width="158" RenderTransformOrigin="0.861,0.849"/>
+        <TextBlock HorizontalAlignment="Left" Margin="50,63,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="71"><Run Text="Confidence"/><Run Text=":"/></TextBlock>
+        <TextBox x:Name="WitRaw" HorizontalAlignment="Left" Height="187" Margin="415,194,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="212"/>
+        <TextBlock HorizontalAlignment="Left" Margin="343,194,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="19" Width="51"><Run Text="WitRaw"/><Run Text=":"/><LineBreak/><Run/></TextBlock>
+        <TextBox x:Name="WitFeedBack" HorizontalAlignment="Left" Height="77" Margin="415,84,0,0" TextWrapping="Wrap" Text="&#xD;&#xA;" VerticalAlignment="Top" Width="212"/>
+        <TextBlock HorizontalAlignment="Left" Margin="310,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="84"><Run Text="WitFeed"/><Run Text="Back"/><Run Text=":"/></TextBlock>
+        <Button x:Name="Go_Back" Content="" HorizontalAlignment="Left" Margin="1179,19,0,0" VerticalAlignment="Top" Width="60" Height="60" BorderBrush="{x:Null}"  Click="Go_Back_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="image/Go Back.png"/>
+            </Button.Background>
+        </Button>
+        <ProgressBar x:Name="Audio_Level" HorizontalAlignment="Left" Height="21" Margin="50,139,0,0" VerticalAlignment="Top" Width="158" RenderTransformOrigin="0.15,0.4"/>
+        <TextBlock HorizontalAlignment="Left" Margin="50,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="71"><Run Text="Audio Level"/><Run Text=":"/></TextBlock>
+        <TextBlock x:Name="tb_audiolevel" HorizontalAlignment="Left" Margin="126,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:Name="Setting_Result" HorizontalAlignment="Left" Height="218" Margin="50,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158" RenderTransformOrigin="-0.065,-0.435"/>
+        <ScrollBar HorizontalAlignment="Left" Margin="191,199,0,0" VerticalAlignment="Top" Height="218"/>
+        <TextBlock HorizontalAlignment="Left" Margin="50,178,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="71" Height="16"><Run Text="Result Text"/><Run Text=":"/><LineBreak/><Run/></TextBlock>
+        <TextBox x:Name="XunFeiRaw" HorizontalAlignment="Left" Height="223" Margin="841,89,0,0" TextWrapping="Wrap" Text="&#xD;&#xA;" VerticalAlignment="Top" Width="201"/>
+        <TextBlock HorizontalAlignment="Left" Margin="734,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="102"><Run Text="XunFei Result"/><Run Text=":"/></TextBlock>
+
+    </Grid>
+</Window>
+
+
+

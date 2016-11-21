@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><grammar xml:lang="zh-CN" root="SGM_DIAL_英文识别_是否" version="1.0" xmlns="http://www.w3.org/2001/06/grammar"><rule id="SGM_DIAL_英文识别_是否" scope="public"><one-of><item>是的</item><item>是</item><item>不是的</item><item>不是</item><item>不</item><item>否</item></one-of></rule></grammar>

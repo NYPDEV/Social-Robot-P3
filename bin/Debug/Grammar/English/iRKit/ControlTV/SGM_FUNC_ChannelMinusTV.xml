@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-US" root="SGM_FUNC_ChannelMinusTV" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="SGM_FUNC_ChannelMinusTV" scope="public">
+    <one-of>
+      <item>go back</item>
+      <item>go back please</item>
+      <item>previous channel</item>
+      <item>previous channel please</item>
+    </one-of>
+  </rule>
+</grammar>

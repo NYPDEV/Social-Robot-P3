@@ -1,0 +1,613 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO.Ports;
+using System.Xml;
+using ROBOTIS;
+using System.Speech.Synthesis;
+using System.Speech.Recognition;
+using System.Threading;
+using System.Configuration;
+using System.Diagnostics;
+
+namespace SocialRobot.Function
+{
+    class Vision
+    {
+        Motor Motor = new Motor();
+        Random ran = new Random();
+        private SerialPort MyCamera = new SerialPort();
+
+        public Speech_Rcognition_Grammar SRG = new Speech_Rcognition_Grammar();
+        public System.Timers.Timer FaceTrackingTimer = new System.Timers.Timer(1500);//The timer used in face tracking
+
+        private Vision()
+        {
+            MyCamera.PortName = ConfigurationManager.AppSettings["CAMERA_COM_PORT_NAME"].ToString();//For adjust com port, go to app config to change.
+            MyCamera.BaudRate = Convert.ToInt32(921600);
+            MyCamera.Handshake = System.IO.Ports.Handshake.None;
+            MyCamera.Parity = Parity.None;
+            MyCamera.DataBits = 8;
+            MyCamera.StopBits = StopBits.One;
+            MyCamera.ReadTimeout = 200;
+            MyCamera.WriteTimeout = 50;
+            try
+            {
+                MyCamera.Open();
+                byte[] AngleCommand = new byte[] { 0Xfe, 0X01, 0X01, 0X00, 0X03 };
+            }
+            catch
+            {
+                System.Windows.MessageBox.Show("Camera can not be detected! Enter Demo Mode!");
+                MainWindow.DemoMode = true;
+            }
+
+            MyCamera.DataReceived += new System.IO.Ports.SerialDataReceivedEventHandler(Recieve);
+
+            FaceTrackingTimer.Elapsed += new System.Timers.ElapsedEventHandler(FaceTrackingTimer_TimesUp);
+        }
+
+        private static Vision _instance = new Vision();
+
+        public static Vision Instance
+        {
+            get
+            {
+                return _instance;
+            }
+        }
+
+
+        #region FaceTracking
+
+        public void FaceTrackingTimerInitialize()
+        {
+            FaceTrackingTimer.AutoReset = true; //The event in timer will happen only once(false), or always happen(true).
+            FaceTrackingTimer.Enabled = true;
+            FaceTrackingTimer.Start();
+        }
+
+        int UserID = -2; //Because 0 is the first user and -1 means not recongized. So I let -2 to be the original value.
+        public static string UserName = "Unknown";
+        public static bool RegisterModeSwitch = true;
+
+        int X = 0;//The X position of person in the camera view This person is the one who will be tracked by robot.
+        int Y = 0;//The Y position.
+        int XInMotor = 0;//The value to change motor's goal position to track user's face.
+        int YInMotor = 0;//Same as above.
+        int EyeGazeByte = 18;
+        int GazeX = 0;
+        int GazeY = 0;
+        int MinimumGaze = 999;
+        int GazeNumber = 0;
+        public static bool RegisterMark = false;
+        public bool GazeMark = false;
+        public bool EyesTurnRight = false;
+        public bool NeckTurnDown = false;
+        public int SecondLevelTimerCount = 0;//This is for the timer in the 1.5s timer. This timer is 4.5s/time.
+        public int FaceExp = 0;
+        public int FaceExpMark = 0;
+        int EyesBlinkCount = 0;
+        int EyesBlinkRandKey = 5;
+        double SSPosition = 320;//SoundSourcePosition
+        int NumberOfPerson = 0;
+        int DBSSPAPP = 0;//Distance Between Sound Source Position And Person Position
+        int DBSSPAPPmin = 999;//The minimum number of DBSSPAP
+        int XoPP = 0;//X of Person Position. For make difference from the indentifier:'X'.
+        public static int DataLength = 0;
+        bool NobodySearchMark = true;
+        int Sensitivity = 6;
+
+        public void FaceTrackingTimer_TimesUp(object sender, System.Timers.ElapsedEventArgs e)
+        {
+            SendCommand();
+            if (SecondLevelTimerCount >= Sensitivity)
+            {
+                //if (UserName != "Unknown")
+                //{
+                //    SRG.srespeech.SpeakAsync("Hello " + UserName);//For test!!
+                //}
+                //1.Face Expression Estimation: Must solve the problem that can not call LED class in here.
+                if (FaceExpMark >= 75 && FaceExpMark <= 100 && MainWindow.FacialExpressionMark)
+                {
+
+                    switch (FaceExp)
+                    {
+                        case 2: FaceLED.Instance.Happy();
+                            Motor.EyesBlink();
+                            Thread.Sleep(300);
+                            Motor.EyesBlink();
+                            switch (MainWindow.Language)
+                            {
+                                case "English":
+                                    SRG.srespeech.SelectVoice("Microsoft Zira Desktop");
+                                   // SRG.srespeech.SpeakAsync("You look so happy today. What's happened?");
+                                    break;
+                                case "Chinese":
+                                   // SRG.srecnspeech.SpeakAsync("你看起来好像很开心。发生了什么吗?");
+                                    break;
+                                case "Japanese":
+                                    SRG.srejpspeech.SelectVoice("VW Misaki");
+                                   // SRG.srejpspeech.SpeakAsync("あなたは今すごく幸せそうに見えます。何が起こったか?");
+                                    break;
+                            }
+                            break;
+                        case 3: FaceLED.Instance.Smile();
+                            Motor.EyesBlink();
+                            Thread.Sleep(300);
+                            Motor.EyesBlink();
+                            switch (MainWindow.Language)
+                            {
+                                case "English":
+                                    SRG.srespeech.SelectVoice("Microsoft Zira Desktop");
+                                    //SRG.srespeech.SpeakAsync("How do you feel about me?");
+                                    break;
+                                case "Chinese":
+                                   // SRG.srecnspeech.SpeakAsync("你觉得我怎么样?");
+                                    break;
+                                case "Japanese":
+                                    SRG.srejpspeech.SelectVoice("VW Misaki");
+                                   // SRG.srejpspeech.SpeakAsync("私がお好きですか?");
+                                    break;
+                            }
+                            break;
+                        case 4: FaceLED.Instance.Fear();
+                            switch (MainWindow.Language)
+                            {
+                                case "English":
+                                    SRG.srespeech.SelectVoice("Microsoft Zira Desktop");
+                                    //SRG.srespeech.SpeakAsync("Relax, please relax!");
+                                    break;
+                                case "Chinese":
+                                    //SRG.srecnspeech.SpeakAsync("我觉得你应该放轻松！");
+                                    break;
+                                case "Japanese":
+                                    SRG.srejpspeech.SelectVoice("VW Misaki");
+                                    SRG.srejpspeech.SpeakAsync("怖い顔ですね。");
+                                    break;
+                            }
+                            break;
+                        case 5: FaceLED.Instance.Sad();
+                            if (FaceExpMark >= 90 && MainWindow.Language == "English")
+                            {
+                                SRG.srespeech.SelectVoice("Microsoft Zira Desktop");
+                               // SRG.srespeech.SpeakAsync("You look sad now, maybe I can tell a joke to you to make you happy?");
+                            }
+                            break;
+                    }
+                }
+                //2.Eye Gaze
+                GazeMark = true;
+
+                SecondLevelTimerCount = 0;
+            }
+            //Eyes Blink
+            if (EyesBlinkCount == EyesBlinkRandKey)
+            {
+                Motor.EyesBlink();
+                EyesBlinkCount = 0;
+                EyesBlinkRandKey = ran.Next(3, 10);
+            }
+            else
+            {
+                EyesBlinkCount++;
+            }
+        }
+
+        public void SendCommand()
+        {
+            byte[] NormalCommand = new byte[] { 0Xfe, 0X03, 0X03, 0X00, 0X44, 0X03, 0X00 };
+            MyCamera.Write(NormalCommand, 0, NormalCommand.Length);
+        }
+
+        public void Recieve(object sender, System.IO.Ports.SerialDataReceivedEventArgs e)
+        {
+            if (!RegisterMark)
+            {
+                byte[] DataReceived = new byte[MyCamera.BytesToRead];
+                MyCamera.Read(DataReceived, 0, MyCamera.BytesToRead);
+                DataLength = DataReceived.Length;
+                if (DataReceived.Length != 6)
+                {
+                    if (DataReceived.Length == 27)//If there is only one person in front of the robot.
+                    {
+                        UserID = DataReceived[23];
+
+                        if (DataReceived[24] != 255)//If robot knew this person.
+                        {
+                            try
+                            {
+                                string MyXMLFilePath = @"C:\test\XmlGrammar\RegisterData.xml";//the location of register database //Local File
+                                XmlDocument MyXmlDoc = new XmlDocument();//Initialize a xml document identifier
+                                MyXmlDoc.Load(MyXMLFilePath);//Load the Register database xml file.（the path of the file）
+                                XmlNode RootNode = MyXmlDoc.SelectSingleNode("Users");//The first node（SelectSingleNode）：the root node of this xml file
+                                XmlNodeList FirstLevelNodeList = RootNode.ChildNodes;//Child node of the root node（Or it is called：the first level child node）
+                                foreach (XmlNode Node in FirstLevelNodeList)
+                                {
+                                    XmlNode SecondLevelNode1 = Node.FirstChild;//Get the child node of the root node
+                                    if (SecondLevelNode1.InnerText == UserID.ToString())//Find the UserID in the database
+                                    {
+                                        XmlNode SecondLevelNode2 = Node.ChildNodes[1];//Get the second child node of the root node(It's not second level, it's second first level. If you don't understand, please check the xml file, just open it and see.)
+                                        UserName = SecondLevelNode2.InnerText;//Give the username which is in the database to identifier 'UserName'
+                                    }
+                                }
+                            }
+                            catch
+                            {
+                                System.Windows.MessageBox.Show("Error!");
+                                Environment.Exit(0);
+                            }
+                            RegisterModeSwitch = true;
+                        }
+                        else
+                        {
+                            UserName = "Unknown";
+                        }
+                        FaceExp = DataReceived[20];
+                        FaceExpMark = DataReceived[21];
+                        SecondLevelTimerCount++;
+                        if (GazeMark)                    //2.Eye Gaze
+                        {
+                            if (GazeX >= 10)
+                            {
+                                if (EyesTurnRight)
+                                {
+                                    Motor.EyesRight();
+                                }
+                                else
+                                {
+                                    Motor.EyesLeft();
+                                }
+                                if (NeckTurnDown)
+                                {
+                                    if (GazeY >= 15)
+                                    {
+                                        if (EyesTurnRight)
+                                        {
+                                            Motor.MidMotorTurnRight();
+                                        }
+                                        else
+                                        {
+                                            Motor.MidMotorTurnLeft();
+                                        }
+                                    }
+                                    else
+                                    {
+                                        Motor.MidMotorInitialize();
+                                    }
+                                }
+                                else
+                                {
+                                    if (GazeY >= 5)
+                                    {
+                                        if (EyesTurnRight)
+                                        {
+                                            Motor.MidMotorTurnLeft();
+                                        }
+                                        else
+                                        {
+                                            Motor.MidMotorTurnRight();
+                                        }
+                                    }
+                                    else
+                                    {
+                                        Motor.MidMotorInitialize();
+                                    }
+                                }
+                            }
+                            else
+                            {
+                                Motor.EyesBallInitialize();
+                                Motor.MidMotorInitialize();
+                            }
+                            GazeMark = false;
+                        }
+                    }
+
+                    else
+                    {
+                        UserID = -2;
+                        UserName = "Unknown";
+                        SecondLevelTimerCount = 0;
+                    }
+
+                    if (DataReceived.Length >= 27)
+                    {
+                        NumberOfPerson = DataReceived[8];
+                        if (FaceLED.MAMark)
+                        {
+                            DBSSPAPP = 0;
+                            DBSSPAPPmin = 999;
+                            SSPosition = 15.238 * FaceLED.Angle - 1051.43;
+                            EyeGazeByte = 18;
+                            for (int i = 0; i < NumberOfPerson; i++)
+                            {
+                                if (EyeGazeByte + 1 < DataReceived.Length)
+                                {
+                                    XoPP = DataReceived[EyeGazeByte - 8] + DataReceived[EyeGazeByte - 7] * 256;
+                                    DBSSPAPP = System.Math.Abs(XoPP - (int)SSPosition);
+                                    if (DBSSPAPP < DBSSPAPPmin)
+                                    {
+                                        DBSSPAPPmin = DBSSPAPP;
+                                    }
+                                    EyeGazeByte = EyeGazeByte + 17;
+                                }
+                            }
+                            EyeGazeByte = 18;
+                            for (int i = 0; i < NumberOfPerson; i++)
+                            {
+                                if (EyeGazeByte + 1 < DataReceived.Length)
+                                {
+                                    XoPP = DataReceived[EyeGazeByte - 8] + DataReceived[EyeGazeByte - 7] * 256;
+                                    DBSSPAPP = System.Math.Abs(XoPP - (int)SSPosition);
+                                    if (DBSSPAPP == DBSSPAPPmin)
+                                    {
+                                        X = DataReceived[EyeGazeByte - 8] + DataReceived[EyeGazeByte - 7] * 256;
+                                        Y = DataReceived[EyeGazeByte - 6] + DataReceived[EyeGazeByte - 5] * 256;
+                                    }
+                                    EyeGazeByte = EyeGazeByte + 17;
+                                }
+                            }
+                            EyeGazeByte = 18;
+                            GazeX = 0;
+                            GazeY = 0;
+                            MinimumGaze = 999;
+                            GazeNumber = 0;
+                            for (int i = 0; i < NumberOfPerson; i++)
+                            {
+                                if (EyeGazeByte + 1 < DataReceived.Length)
+                                {
+                                    GazeX = DataReceived[EyeGazeByte];
+                                    GazeY = DataReceived[EyeGazeByte + 1];
+                                    if (GazeX > 90)
+                                    {
+                                        GazeX = 256 - GazeX;
+                                        EyesTurnRight = false;
+                                    }
+                                    else
+                                    {
+                                        EyesTurnRight = true;
+                                    }
+                                    if (GazeY > 90)
+                                    {
+                                        GazeY = 256 - GazeY;
+                                        NeckTurnDown = true;
+                                    }
+                                    else
+                                    {
+                                        NeckTurnDown = false;
+                                    }
+                                    GazeNumber = GazeX + GazeY;
+                                    if (GazeNumber < MinimumGaze)
+                                    {
+                                        MinimumGaze = GazeNumber;
+                                    }
+                                    EyeGazeByte = EyeGazeByte + 17;
+                                }
+                            }
+                            EyeGazeByte = 18;
+                        }
+                        else
+                        {
+                            GazeX = 0;
+                            GazeY = 0;
+                            MinimumGaze = 999;
+                            DBSSPAPP = 0;
+                            DBSSPAPPmin = 999;
+                            GazeNumber = 0;
+                            for (int i = 0; i < NumberOfPerson; i++)
+                            {
+                                if (EyeGazeByte + 1 < DataReceived.Length)
+                                {
+                                    GazeX = DataReceived[EyeGazeByte];
+                                    GazeY = DataReceived[EyeGazeByte + 1];
+                                    if (GazeX > 90)
+                                    {
+                                        GazeX = 256 - GazeX;
+                                        EyesTurnRight = false;
+                                    }
+                                    else
+                                    {
+                                        EyesTurnRight = true;
+                                    }
+                                    if (GazeY > 90)
+                                    {
+                                        GazeY = 256 - GazeY;
+                                        NeckTurnDown = true;
+                                    }
+                                    else
+                                    {
+                                        NeckTurnDown = false;
+                                    }
+                                    GazeNumber = GazeX + GazeY;
+                                    if (GazeNumber < MinimumGaze)
+                                    {
+                                        X = DataReceived[EyeGazeByte - 8] + DataReceived[EyeGazeByte - 7] * 256;
+                                        Y = DataReceived[EyeGazeByte - 6] + DataReceived[EyeGazeByte - 5] * 256;
+                                        MinimumGaze = GazeNumber;
+                                    }
+                                    EyeGazeByte = EyeGazeByte + 17;
+                                }
+                            }
+                            EyeGazeByte = 18;
+                        }
+                        NobodySearchMark = true;
+                    }
+                    else//Nobody in the view
+                    {
+                        Motor.EyesBallInitialize();
+                        Motor.MidMotorInitialize();
+                        if (FaceLED.MAMark)
+                        {
+                            if (NobodySearchMark)
+                            {
+                                if (FaceLED.Angle < 90)
+                                {
+                                    Motor.TurnRight();
+                                }
+                                else if (FaceLED.Angle > 90)
+                                {
+                                    Motor.TurnLeft();
+                                }
+                                NobodySearchMark = false;
+                            }
+                        }
+                        else
+                        {
+                            X = 180;
+                            Y = 320;//Later the camera position will be changed, then this formula also need be changed!!
+                        }
+                    }
+                }
+                XInMotor = (X - 180) * 173 / 235;
+                YInMotor = -(Y - 320);
+                Motor.TopPresentPosition = dynamixel.dxl_read_word(Motor.TopNeckID, Motor.PresentPositionAddress);
+                Motor.BtmPresentPosition = dynamixel.dxl_read_word(Motor.BtmNeckID, Motor.PresentPositionAddress);
+
+                if (DataReceived.Length >= 27 && Motor.BtmPresentPosition - XInMotor < Motor.BtmNeckUpLimit && Motor.BtmPresentPosition - XInMotor > Motor.BtmNeckLowLimit && Motor.TopPresentPosition + YInMotor < Motor.TopNeckUpLimit && Motor.TopPresentPosition + YInMotor > Motor.TopNeckLowLimit)
+                {
+                    if (FaceLED.MAMark)
+                    {
+                        Motor.MotorWrite_funcNeck(Motor.BtmNeckID, 50, Motor.BtmPresentPosition + XInMotor);
+                        Motor.MotorWrite_funcNeck(Motor.TopNeckID, 50, Motor.TopPresentPosition + YInMotor);
+                        //Thread.Sleep(500);
+                        FaceLED.MAMark = false;
+                        FaceLED.Angle = 90;
+                        FaceTrackingTimer.Start();
+                    }
+                    else
+                    {
+                        if (MinimumGaze <= 20)
+                        {
+                            Motor.MotorWrite_funcNeck(Motor.BtmNeckID, 50, Motor.BtmPresentPosition + XInMotor);
+                            Motor.MotorWrite_funcNeck(Motor.TopNeckID, 50, Motor.TopPresentPosition + YInMotor);
+                        }
+                    }
+                }
+            }
+        }
+
+        #endregion
+
+
+        #region Registration
+
+        int NewUserID = -2;
+        public string NewUserName = "";
+
+        public void RegisterMode()
+        {
+            FaceTrackingTimer.Stop();
+            Thread.Sleep(200);
+            RegisterMark = true;
+            Thread.Sleep(200);
+        }
+
+        public void Command(string Character)
+        {
+            switch (Character)
+            {
+                case "finish":
+                    //reload previous Grammar
+
+                    //1.Get the new ID of new user.
+                    try
+                    {
+                        string MyXMLFilePath = @"C:\test\XmlGrammar\RegisterData.xml";//the location of register database //Local File
+                        XmlDocument MyXmlDoc = new XmlDocument();//Initialize a xml document identifier
+                        MyXmlDoc.Load(MyXMLFilePath);//Load the Register database xml file.（the path of the file）
+                        XmlNode RootNode = MyXmlDoc.SelectSingleNode("Users");//The first node（SelectSingleNode）：the root node of this xml file
+                        XmlNodeList FirstLevelNodeList = RootNode.ChildNodes;//Child node of the root node（Or it is called：the first level child node）
+                        foreach (XmlNode Node in FirstLevelNodeList)
+                        {
+                            XmlNode SecondLevelNode1 = Node.FirstChild;//Get the child node of the root node
+                            if (int.Parse(SecondLevelNode1.InnerText) >= NewUserID)//This is for get the NewUserID which is equal to the last ID in database plus one
+                            {
+                                NewUserID = int.Parse(SecondLevelNode1.InnerText);
+                            }
+                        }
+                        NewUserID++;//Plus one
+                    }
+                    catch
+                    {
+                        System.Windows.MessageBox.Show("Error!");
+                        Environment.Exit(0);
+                    }
+
+                    //2.add the new user's information into xml database.
+                    try
+                    {
+                        string MyXMLFilePath = @"C:\test\XmlGrammar\RegisterData.xml";//the location of register database //Local File
+                        XmlDocument MyXmlDoc = new XmlDocument();//Initialize a xml document identifier
+                        MyXmlDoc.Load(MyXMLFilePath);//Load the Register database xml file.（the path of the file）
+                        XmlNode RootNode = MyXmlDoc.SelectSingleNode("Users");//The first node（SelectSingleNode）：the root node of this xml file
+
+                        XmlElement newElement1 = MyXmlDoc.CreateElement("User");
+                        RootNode.AppendChild(newElement1);
+
+                        XmlElement newElementChild1 = MyXmlDoc.CreateElement("ID");
+                        newElementChild1.InnerText = NewUserID.ToString();//the new id sent back by omron
+                        newElement1.AppendChild(newElementChild1);
+
+                        XmlElement newElementChild2 = MyXmlDoc.CreateElement("Name");
+                        newElementChild2.InnerText = NewUserName;
+                        newElement1.AppendChild(newElementChild2);
+
+                        MyXmlDoc.Save(MyXMLFilePath);
+                    }
+                    catch
+                    {
+                        System.Windows.MessageBox.Show("Error!");
+                        Environment.Exit(0);
+                    }
+
+                    //3.Set the register data to OMRON.
+                    byte UserIDinByte = 0;
+                    UserIDinByte = (byte)(UserIDinByte | NewUserID);
+                    byte[] RegistCommand = new byte[] { 0Xfe, 0X10, 0X03, 0X00, UserIDinByte, 0X00, 0X00 };
+                    MyCamera.Write(RegistCommand, 0, RegistCommand.Length);
+
+                    NewUserID = -2;
+                    NewUserName = "";
+                    RegisterMark = false;
+                    Thread.Sleep(1000);
+                    FaceTrackingTimer.Start();
+                    break;
+
+                case "No":
+                    if (NewUserName != "")
+                    {
+                        NewUserName = NewUserName.Substring(0, NewUserName.Length - 1);
+                    }
+                    else
+                    {
+                        RegisterModeQuit();
+                    }
+
+                    break;
+
+                case "space":
+                    NewUserName = NewUserName + " ";
+
+                    break;
+
+                default:
+                    NewUserName = NewUserName + Character;
+                    break;
+            }
+
+        }
+
+        public void RegisterModeQuit()
+        {
+            RegisterMark = false;
+            Thread.Sleep(1000);
+            FaceTrackingTimer.Start();
+        }
+        #endregion
+    }
+
+}
+

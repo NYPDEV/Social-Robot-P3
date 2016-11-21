@@ -1,0 +1,17 @@
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\bin\x86\Debug\SocialRobot.exe.config
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\x86\Debug\SocialRobot.csproj.App.config
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\x86\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\x86\Debug\SocialRobot.csproj.ResolveComReference.cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\x86\Debug\SocialRobot.csprojResolveAssemblyReference.cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\x86\Debug\Application\iRKit\iRKit_TV_interface.baml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\x86\Debug\Application\SkypeApp\Skype_Interface.baml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\x86\Debug\MainWindow.baml
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\x86\Debug\Application\iRKit\iRKit_TV_interface.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\x86\Debug\Application\SkypeApp\Skype_Interface.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\x86\Debug\App.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\x86\Debug\SocialRobot_Content.g.cs
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\x86\Debug\SocialRobot_MarkupCompile.cache
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\x86\Debug\SocialRobot.g.resources
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\x86\Debug\SocialRobot.Properties.Resources.resources
+C:\Users\Social_Robot_GB\Desktop\SocialRobot July  30\obj\x86\Debug\SocialRobot.csproj.GenerateResource.Cache
