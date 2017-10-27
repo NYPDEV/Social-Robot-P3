@@ -1,21 +1,39 @@
 ﻿<Window x:Class="SocialRobot.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Social Robot" Height="720" Width="1280" Closed="Window_Closed"    WindowStyle="None" ResizeMode="NoResize"  
-    WindowStartupLocation="CenterScreen" WindowState="Maximized">
-    <Grid>
+        xmlns:cam="clr-namespace:WebcamControl;assembly=WebcamControl"
+        Title="Social Robot" 
+        Name="myMainWindow"
+        Height="720" Width="1280" 
+        Closed="Window_Closed"  
+        WindowStyle="None" 
+        ResizeMode="NoResize"  
+        WindowStartupLocation="CenterScreen"
+        Loaded="myMainWindow_Loaded" SourceInitialized="Window_SourceInitialized">
+    <Grid Name="MainGrid" SizeChanged="MainGrid_SizeChanged">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1077*"/>
+            <ColumnDefinition Width="201*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.LayoutTransform>
+            <ScaleTransform x:Name="ApplicationScaleTransform"
+                        CenterX="0"
+                        CenterY="0"
+                        ScaleX="{Binding ElementName=myMainWindow, Path=ScaleValue}"
+                        ScaleY="{Binding ElementName=myMainWindow, Path=ScaleValue}" />
+        </Grid.LayoutTransform>
         <Grid.Background>
             <ImageBrush ImageSource="image/Background.png"/>
         </Grid.Background>
-        <TextBlock x:Name="Language_text" HorizontalAlignment="Left" Margin="31,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="241" Height="65" FontSize="40" FontFamily="SketchFlow Print"/>
-        <TextBlock HorizontalAlignment="Left" Margin="31,167,0,0" TextWrapping="Wrap" Text="Switch Language" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe Print"/>
-        <Button x:Name="SwitchLanguage" Content="" HorizontalAlignment="Left" Margin="71,207,0,0" VerticalAlignment="Top" Width="70" Click="SwitchLanguage_Click" Height="70" BorderBrush="{x:Null}">
+        <cam:Webcam x:Name="WebcamCtrl" HorizontalAlignment="Left" Height="154" Margin="201,547,0,0" VerticalAlignment="Top" Width="197" Visibility="Hidden"/>
+        <TextBlock x:Name="Language_text" HorizontalAlignment="Left" Margin="36,51,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="241" Height="65" FontSize="40" FontFamily="SketchFlow Print" AllowDrop="True" Foreground="LightGray"/>
+        <Button x:Name="SwitchLanguage" Content="" HorizontalAlignment="Left" Margin="116,121,0,0" VerticalAlignment="Top" Width="70" Height="70" BorderBrush="{x:Null}" Click="SwitchLanguage_Click">
             <Button.Background>
                 <ImageBrush ImageSource="image/Switch Language.png"/>
             </Button.Background>
         </Button>
-        <TextBlock x:Name="tb_result_text" HorizontalAlignment="Left" Margin="31,478,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="337" Height="167" FontSize="35" FontFamily="Kristen ITC" TextAlignment="Center"/>
-        <ProgressBar x:Name="Volume" HorizontalAlignment="Left" Height="77" Margin="597,158,0,0" VerticalAlignment="Top" Width="89" RenderTransformOrigin="0.5,0.5" Orientation="Vertical">
+        <ProgressBar x:Name="Volume" HorizontalAlignment="Left" Height="32" Margin="64,568,0,0" VerticalAlignment="Top" Width="35" RenderTransformOrigin="0.5,0.5" Orientation="Vertical">
             <ProgressBar.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -25,7 +43,7 @@
                 </TransformGroup>
             </ProgressBar.RenderTransform>
         </ProgressBar>
-        <Image Margin="507,115,503,338" Source="image/Microphone.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
+        <Image Margin="30,552,945,68" Source="image/Microphone.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
             <Image.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform ScaleX="-1"/>
@@ -35,41 +53,183 @@
                 </TransformGroup>
             </Image.RenderTransform>
         </Image>
-        <TextBlock x:Name="UI" HorizontalAlignment="Left" Margin="416,421,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="224" Width="457" FontSize="50" FontFamily="Segoe Print" TextAlignment="Center"/>
-        <Button x:Name="Esc" Content="" HorizontalAlignment="Left" Margin="1189,30,0,0" VerticalAlignment="Top" Width="60" Height="60" FontSize="20" Click="Esc_click" BorderBrush="{x:Null}">
+        <Button x:Name="Esc" Content="" HorizontalAlignment="Left" Margin="91,33,0,0" VerticalAlignment="Top" Width="79" Height="77" FontSize="20" Click="Esc_click" BorderBrush="{x:Null}" MouseEnter="Esc_MouseEnter" MouseLeave="Esc_MouseLeave" Grid.Column="1">
             <Button.Background>
                 <ImageBrush ImageSource="image/Power off.png"/>
-            </Button.Background>
-        </Button>
-        <Button x:Name="Setting" Content="&#xA;" HorizontalAlignment="Left" Margin="1110,25,0,0" VerticalAlignment="Top" Width="65" Height="65" BorderBrush="{x:Null}" Click="Setting_Click">
-            <Button.Background>
-                <ImageBrush ImageSource="image/Setting.png"/>
             </Button.Background>
         </Button>
         <Image x:Name="WeatherIcon"
         	HorizontalAlignment="Left"
         	Height="246"
-        	Margin="966,342,0,0"
+        	Margin="971,342,0,0"
         	VerticalAlignment="Top"
-        	Width="270"
+        	Width="270" Grid.ColumnSpan="2"
 	 />
-        <Calendar HorizontalAlignment="Left" Margin="1063,146,0,0" VerticalAlignment="Top" Height="176" Width="186"/>
-        <TextBlock x:Name="WeatherText" HorizontalAlignment="Left" Margin="966,593,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="68" Width="270" FontSize="32" FontFamily="Segoe Print" TextAlignment="Center"/>
-        <Button Content="" HorizontalAlignment="Left" Height="60" Margin="1189,90,0,0" VerticalAlignment="Top" Width="60" Click="Button_Click">
+        <TextBlock x:Name="WeatherText" HorizontalAlignment="Left" Margin="971,593,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="68" Width="270" FontSize="32" FontFamily="Segoe Print" TextAlignment="Center" Foreground="LightGray" Grid.ColumnSpan="2"/>
+        <TextBlock x:Name="UserData" HorizontalAlignment="Left" Height="311" Margin="37,231,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="240" FontSize="24" Foreground="LightGray"/>
+        <Button x:Name="WakeUpButton" Content="" HorizontalAlignment="Left" Height="80" Margin="47,231,0,0" VerticalAlignment="Top" Width="80" Click="WakeUp_Click" FontSize="18" HorizontalContentAlignment="Center" Grid.Column="1">
             <Button.Background>
-                <ImageBrush ImageSource="image/Health.png"/>
+                <ImageBrush ImageSource="image/goSilence.png"/>
             </Button.Background>
         </Button>
-        <Button Content="" HorizontalAlignment="Left" Height="60" Margin="1032,30,0,0" VerticalAlignment="Top" Width="60" Click="Button_Click_1" FontSize="22">
+        <Button x:Name="IRKitManagerBtn" Content="" HorizontalAlignment="Left" Height="80" Margin="1055,111,0,0" VerticalAlignment="Top" Width="80" FontSize="18" Click="button_Click" Grid.ColumnSpan="2">
             <Button.Background>
-                <ImageBrush ImageSource="image/call.jpg"/>
+                <ImageBrush ImageSource="image/IRKitManager.png"/>
             </Button.Background>
         </Button>
-        <Button x:Name="Register" Content="R" HorizontalAlignment="Left" Margin="1032,90,0,0" VerticalAlignment="Top" Width="60" Height="60" FontSize="36" Click="Register_Click"/>
-        <Button x:Name="Free" Content="F" HorizontalAlignment="Left" Margin="953,90,0,0" VerticalAlignment="Top" Width="62" Height="60" FontSize="41" Click="Free_Click"/>
-        <TextBlock x:Name="UserData" HorizontalAlignment="Left" Height="303" Margin="1021,342,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="228" FontSize="24"/>
-        <Button x:Name="WakeUp" Content="Wake Up" HorizontalAlignment="Left" Height="60" Margin="869,90,0,0" VerticalAlignment="Top" Width="62" Click="WakeUp_Click"/>
-        <Button x:Name="E" Content="E" HorizontalAlignment="Left" Height="58" Margin="1110,92,0,0" VerticalAlignment="Top" Width="62" FontSize="36"/>
+        <Button x:Name="Calendar" Content="" HorizontalAlignment="Left" Height="80" Margin="47,151,0,0" VerticalAlignment="Top" Width="80" FontSize="18" Click="Test_Click" Grid.Column="1">
+            <Button.Background>
+                <ImageBrush ImageSource="image/Calendar.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="RosBridgeBtn" Content="" HorizontalAlignment="Left" Height="80" Margin="1055,190,0,0" VerticalAlignment="Top" Width="80" Click="button1_Click" FontSize="18" Grid.ColumnSpan="2">
+            <Button.Background>
+                <ImageBrush ImageSource="image/RosBridge.png"/>
+            </Button.Background>
+        </Button>
+        <ScrollViewer x:Name="UIScrollViewer" Height="336" Margin="356,89,151,0" VerticalScrollBarVisibility="Hidden"  VerticalAlignment="Top" PreviewTouchDown="ScrollViewer_PreviewTouchDown" PreviewTouchMove="ScrollViewer_PreviewTouchMove">
+            <StackPanel x:Name="UIStackPenal"/>
+        </ScrollViewer>
+        <Button x:Name="Kiss92" HorizontalAlignment="Left" Height="80" Margin="690,547,0,0" VerticalAlignment="Top" Width="80" Click="Kiss92_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="image/Kiss92.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Yes933" HorizontalAlignment="Left" Height="80" Margin="550,476,0,0" VerticalAlignment="Top" Width="80" Click="Yes933_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="image/Yes933.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Class95" HorizontalAlignment="Left" Height="80" Margin="619,581,0,0" VerticalAlignment="Top" Width="80" Click="Class95_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="image/Class95.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Love972" HorizontalAlignment="Left" Height="80" Margin="480
+                ,512,0,0" VerticalAlignment="Top" Width="80" Click="Love972_Click" RenderTransformOrigin="0.562,1.8">
+            <Button.Background>
+                <ImageBrush ImageSource="image/Love972.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="FM988" HorizontalAlignment="Left" Height="80" Margin="619,512,0,0" VerticalAlignment="Top" Width="80" Click="FM988_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="image/Star988.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="UFM1003" Height="80" Margin="760,512,237,0" VerticalAlignment="Top" Width="80" Click="UFM1003_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="image/UFM100.3.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="CloseRadio" HorizontalAlignment="Left" Height="80" Margin="760,581,0,0" VerticalAlignment="Top" Width="80" Click="CloseRadio_Click" RenderTransformOrigin="0.25,0.5">
+            <Button.Background>
+                <ImageBrush ImageSource="image/X.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="FM924" HorizontalAlignment="Left" Height="80" Margin="480,581,0,0" VerticalAlignment="Top" Width="80" Click="FM924_Click" Content="" FontSize="24" RenderTransformOrigin="0.542,0.765">
+            <Button.Background>
+                <ImageBrush ImageSource="image/SYM924.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="FM987" HorizontalAlignment="Left" Height="80" Margin="550,621,0,0" VerticalAlignment="Top" Width="80" Click="FM987_Click" Content="" FontSize="24" RenderTransformOrigin="0.542,0.765">
+            <Button.Background>
+                <ImageBrush ImageSource="image/FM987.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Lush995" HorizontalAlignment="Left" Height="80" Margin="690,621,0,0" VerticalAlignment="Top" Width="80" Click="Lush995_Click" Content="" FontSize="24" RenderTransformOrigin="0.542,0.765">
+            <Button.Background>
+                <ImageBrush ImageSource="image/Lush995.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Gold905" HorizontalAlignment="Left" Height="80" Margin="550,547,0,0" VerticalAlignment="Top" Width="80" Click="Gold905_Click" Content="" FontSize="24" RenderTransformOrigin="0.542,0.765">
+            <Button.Background>
+                <ImageBrush ImageSource="image/Gold905.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Capital958" HorizontalAlignment="Left" Height="80" Margin="690,476,0,0" VerticalAlignment="Top" Width="80" Click="Capital958_Click" Content="" FontSize="24" RenderTransformOrigin="0.542,0.765">
+            <Button.Background>
+                <ImageBrush ImageSource="image/Capital958.png"/>
+            </Button.Background>
+        </Button>
+        <MediaElement x:Name="Player" Height="10" RenderTransformOrigin="7.683,9.9" Margin="10,0,1059,10" VerticalAlignment="Bottom" Visibility="Hidden"/>
+        <Label x:Name="RadioStation" Style="{DynamicResource 7SegmentsBox}"  HorizontalAlignment="Left" Height="43" Margin="470,550,0,0" VerticalAlignment="Top" Width="352">
+            <TextBlock Text="{Binding VisitorPoints, StringFormat=F2}" FontSize="24">
+                <TextBlock.Background>
+                    <ImageBrush ImageSource="image/RadioStation.png"/>
+                </TextBlock.Background>
+            </TextBlock>
+        </Label>
+        <Button x:Name="CloseRadio_Copy" HorizontalAlignment="Left" Height="75" Margin="398,568,0,0" VerticalAlignment="Top" Width="77" Click="CloseRadio_Click" RenderTransformOrigin="0.25,0.5" Visibility="Visible">
+            <Button.Background>
+                <ImageBrush ImageSource="image/X.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="PreviousStation" HorizontalAlignment="Left" Height="60" Margin="827,583,0,0" VerticalAlignment="Top" Width="71" Click="PreviousStation_Click" Visibility="Visible">
+            <Button.Background>
+                <ImageBrush ImageSource="image/DownArrow.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="NextStation" HorizontalAlignment="Left" Height="69" Margin="827,509,0,0" VerticalAlignment="Top" Width="71" Click="NextStation_Click" Visibility="Visible" RenderTransformOrigin="0.733,-0.089">
+            <Button.Background>
+                <ImageBrush ImageSource="image\UpArrow.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="BackToRadioSelect" HorizontalAlignment="Left" Height="82" Margin="398,506,0,0" VerticalAlignment="Top" Width="77" Click="BackToRadioSelect_Click" RenderTransformOrigin="-0.724,0.608" Visibility="Visible">
+            <Button.Background>
+                <ImageBrush ImageSource="image/ReturnButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Demo" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="47,321,0,0" VerticalAlignment="Top" Width="75" Click="Demo_Click" Height="68">
+            <Button.Background>
+                <ImageBrush ImageSource="image/demoMode.jpg"/>
+            </Button.Background> 
+        </Button>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="204" Margin="131,476,0,0" VerticalAlignment="Top" Width="262" Source="image/disconnect.png"/>
+        <Image x:Name="PhotoImage" HorizontalAlignment="Left" Height="547" Margin="228,46,0,0" VerticalAlignment="Top" Width="822" Visibility="Hidden"/>
 
+        <ComboBox Height="22" Width="197" HorizontalAlignment="Left" VerticalAlignment="Top" x:Name="VideoDevicesComboBox" Margin="201,497,0,0" Visibility="Hidden" />
+        <ComboBox HorizontalAlignment="Left" Height="23" Width="197" VerticalAlignment="Bottom" x:Name="AudioDevicesComboBox" Margin="201,0,0,173" Visibility="Hidden" />
+        <Rectangle x:Name="VideoBackground" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="445" Margin="311,91,0,0" Stroke="Black" VerticalAlignment="Top" Width="638" Visibility="Hidden"/>
+        <Button x:Name="ThumbNail1" HorizontalAlignment="Left" Height="114" Margin="340,167,0,0" VerticalAlignment="Top" Width="146" Background="#0000FFFF" Visibility="Hidden" Click="ThumbNail1_Click"/>
+        <Button x:Name="ThumbNail2" HorizontalAlignment="Left" Height="114" Margin="789,167,0,0" VerticalAlignment="Top" Width="146" Background="#0000FFFF" Visibility="Hidden" Click="ThumbNail2_Click"/>
+        <Button x:Name="ThumbNail3" HorizontalAlignment="Left" Height="114" Margin="340,343,0,0" VerticalAlignment="Top" Width="146" Background="#0000FFFF" Visibility="Hidden" Click="ThumbNail3_Click"/>
+        <Button x:Name="ThumbNail4" HorizontalAlignment="Left" Height="114" Margin="789,343,0,0" VerticalAlignment="Top" Width="146" Background="#0000FFFF" Visibility="Hidden" Click="ThumbNail4_Click"/>
+        <Button x:Name="ThumbNail5" HorizontalAlignment="Left" Height="114" Margin="564,255,0,0" VerticalAlignment="Top" Width="146" Background="#0000FFFF" Visibility="Hidden" Click="ThumbNail5_Click"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Height="62" Margin="340,281,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" Visibility="Hidden"/>
+        <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Height="62" Margin="789,281,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" Visibility="Hidden"/>
+        <TextBlock x:Name="textBlock3" HorizontalAlignment="Left" Height="62" Margin="340,457,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" Visibility="Hidden"/>
+        <TextBlock x:Name="textBlock4" HorizontalAlignment="Left" Height="62" Margin="789,457,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" Visibility="Hidden"/>
+        <TextBlock x:Name="textBlock5" HorizontalAlignment="Left" Height="62" Margin="564,369,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" Visibility="Hidden"/>
+        <WebBrowser x:Name="webBrowser" Visibility="Hidden" Grid.ColumnSpan="2"/>
+        <Image x:Name="disConImage1" HorizontalAlignment="Left" Height="50" Margin="944,121,0,0" VerticalAlignment="Top" Width="50" Source="image/okao.png" Visibility="Hidden"/>
+        <Image x:Name="disConImage2" HorizontalAlignment="Left" Height="50" Margin="994,121,0,0" VerticalAlignment="Top" Width="50" Source="image/disconnect.png" Visibility="Hidden"/>
+        <Image x:Name="disConImage3" HorizontalAlignment="Left" Height="50" Margin="944,171,0,0" VerticalAlignment="Top" Width="50" Source="image/mbed.png" Visibility="Hidden"/>
+        <Image x:Name="disConImage4" HorizontalAlignment="Left" Height="50" Margin="994,171,0,0" VerticalAlignment="Top" Width="50" Source="image/disconnect.png" Visibility="Hidden"/>
+        <Image x:Name="DemoModeImage" HorizontalAlignment="Left" Height="50" Margin="944,221,0,0" VerticalAlignment="Top" Width="100" Source="image/demoMode.jpg" Visibility="Hidden"/>
+        <Label x:Name="ConnectLabel" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="36" Width="194" Foreground="Orange" FontSize="18" Margin="10,10,0,0"/>
+       
     </Grid>
+    <Window.Resources>
+        <FontFamily x:Key="7SegFontFamily">/SocialRobot;Component/Fonts/#NI7Seg</FontFamily>
+        <Style x:Key="7SegmentsBox" TargetType="{x:Type Label}">
+            <Setter Property="FontFamily" Value="{DynamicResource 7SegFontFamily}"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center" />
+            <Setter Property="Foreground" Value="Cyan" />
+            <Setter Property="FontSize" Value="32" />
+            <Setter Property="VerticalContentAlignment" Value="Top"/>
+            <Setter Property="FontStyle" Value="Normal"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid Background="{TemplateBinding Background}">
+                            <ContentPresenter />
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
 </Window>

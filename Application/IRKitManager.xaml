@@ -1,0 +1,29 @@
+﻿<Window x:Class="SocialRobot.Application.IRKitManager"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SocialRobot.Application"
+        mc:Ignorable="d"
+        Title="IRKitManager" Height="431" Width="525">
+    <Grid>
+        <DockPanel>
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="File">
+                    <MenuItem Header="Open" Click="Open_Click"/>
+                    <MenuItem Header="Save" Click="Save_Click" />
+                    <MenuItem Header="SaveAs" Click="SaveAs_Click"/>
+                    <MenuItem Header="Close" Click="Close_Click"/>
+                </MenuItem>
+            </Menu>
+            <StackPanel/>
+        </DockPanel>
+        <Button x:Name="GET" Content="Receives Signal" HorizontalAlignment="Left" Height="36" Margin="231,354,0,0" VerticalAlignment="Top" Width="132" Click="GET_Click"/>
+        <Button x:Name="POST" Content="Send Signal" HorizontalAlignment="Left" Height="36" Margin="368,354,0,0" VerticalAlignment="Top" Width="139" Click="POST_Click"/>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="361" Margin="10,29,0,0" VerticalAlignment="Top" Width="216"/>
+        <TextBox x:Name="Name_Box" HorizontalAlignment="Left" Height="57" Margin="231,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" TextChanged="Name_Box_TextChanged"/>
+        <Button x:Name="ADD" Content="ADD" HorizontalAlignment="Left" Height="26" Margin="436,29,0,0" VerticalAlignment="Top" Width="71" Click="ADD_Click"/>
+        <Button x:Name="DELETE" Content="DELETE" HorizontalAlignment="Left" Height="26" Margin="436,60,0,0" VerticalAlignment="Top" Width="71" Click="DELETE_Click"/>
+        <TextBox x:Name="Signal" HorizontalAlignment="Left" Height="258" Margin="231,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="276" TextChanged="Signal_TextChanged"/>
+    </Grid>
+</Window>

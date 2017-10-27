@@ -2,7 +2,7 @@ using System.Runtime.InteropServices;
 
 namespace ROBOTIS
 {
-    unsafe class dynamixel
+    public unsafe class dynamixel
     {
         public const int MAXNUM_TXPARAM     = 150;
         public const int MAXNUM_RXPARAM     = 60;
